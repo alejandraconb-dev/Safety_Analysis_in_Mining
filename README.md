@@ -1,2 +1,3 @@
 # Safety_Analysis_in_Mining
-Análisis de datos en casos de accidentes en Minas en Power BI
+En el sector minero, la gestión de eventos de seguridad y salud ocupacional (HSS), que incluye observaciones, casi accidentes (near misses) e incidentes, requiere visibilidad oportuna para prevenir accidentes. Se disponía de 3 archivos CSV con datos de eventos HSS, colaboradores (reportantes y dueños de acciones) y una dimensión calendario, pero los datos presentaban problemas de calidad: la columna de semanas venía completamente vacía, había inconsistencias en formatos de texto y faltaba un dashboard que consolidara indicadores clave para la toma de decisiones por parte de perfiles gerenciales y de operaciones.
+
