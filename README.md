@@ -1,10 +1,6 @@
 # Safety_Analysis_in_Mining
 En el sector minero, la gestión de eventos de seguridad y salud ocupacional (HSS), que incluye observaciones, casi accidentes (near misses) e incidentes, requiere visibilidad oportuna para prevenir accidentes. Se disponía de 3 archivos CSV con datos de eventos HSS, colaboradores (reportantes y dueños de acciones) y una dimensión calendario, pero los datos presentaban problemas de calidad: la columna de semanas venía completamente vacía, había inconsistencias en formatos de texto y faltaba un dashboard que consolidara indicadores clave para la toma de decisiones por parte de perfiles gerenciales y de operaciones.
 
-Aquí tienes un **README listo para usar** en GitHub, pensado específicamente para este proyecto de Power BI (no es un análisis solo en Python, por eso la estructura es un poco distinta).
-
-Puedes copiarlo y ajustar lo que quieras:
-
 ## Descripción del proyecto
 
 Este proyecto consiste en la construcción de un panel de control (dashboard) de una página que permite monitorear eventos de seguridad y las acciones correctivas asociadas.
