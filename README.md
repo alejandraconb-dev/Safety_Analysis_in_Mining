@@ -1,4 +1,4 @@
-<img src="https://github.com/alejandraconb-dev/Safety_Analysis_in_Mining/blob/main/grafico_hss.png" width="50"> 
+<img src="https://github.com/alejandraconb-dev/Safety_Analysis_in_Mining/blob/main/grafico_hss.png" width="5000"> 
 
 # 📌Safety_Analysis_in_Mining
 En el sector minero, la gestión de eventos de seguridad y salud ocupacional (HSS), que incluye observaciones, casi accidentes (near misses) e incidentes, requiere visibilidad oportuna para prevenir accidentes. 
