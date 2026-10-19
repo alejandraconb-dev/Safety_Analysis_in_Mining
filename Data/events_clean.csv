@@ -1,0 +1,851 @@
+EventID,EventDate,Site,Gerencia,Superintendencia,Area,Contractor,EventType,RiskLevel,Shift,Category,PrimaryControl,ReporterEmployeeID,Status,CloseDate,ShortDescription
+EV00001,2025-11-17,escondida,operaciones,superintendencia 3,transporte,contrato d,hazard observation,low,night,working at height,ppe,E0064,closed,2025-11-20,línea de vida no instalada
+EV00002,2025-12-23,cerro colorado,operaciones,superintendencia 1,transporte,bhp,incident,medium,day,working at height,jsa/ast,E0095,open,,línea de vida no instalada
+EV00003,2026-01-01,escondida,hss,superintendencia 3,transporte,contrato b,hazard observation,high,night,housekeeping,ppe,E0127,closed,2026-01-06,derrame de material
+EV00004,2025-12-29,escondida,operaciones,superintendencia 2,campamento,bhp,incident,low,night,housekeeping,ppe,E0125,closed,2025-12-31,pasillo obstruido
+EV00005,2025-11-09,cerro colorado,mantenimiento,superintendencia 4,planta concentradora,bhp,hazard observation,medium,day,traffic,permit to work,E0101,closed,2025-11-28,exceso de velocidad en ruta interna
+EV00006,2025-10-08,spence,hss,superintendencia 1,campamento,contrato d,hazard observation,low,night,traffic,barricade,E0080,closed,2025-10-09,punto ciego sin spotter
+EV00007,2025-10-07,spence,supply,superintendencia 4,campamento,bhp,hazard observation,low,day,hand safety,isolation,E0054,open,,uso incorrecto de guantes
+EV00008,2025-11-14,escondida,servicios,superintendencia 4,campamento,bhp,safety interaction,low,day,lifting,pre-start check,E0094,closed,2025-11-30,señalero no asignado
+EV00009,2025-11-25,spence,operaciones,superintendencia 4,planta concentradora,bhp,hazard observation,low,night,working at height,isolation,E0087,closed,2025-12-01,escalera sin amarre
+EV00010,2025-12-04,escondida,mantenimiento,superintendencia 3,puerto/logística,contrato b,safety interaction,high,day,traffic,isolation,E0007,open,,cruce sin señalización
+EV00011,2025-12-13,escondida,mantenimiento,superintendencia 4,transporte,contrato b,incident,high,day,lifting,barricade,E0078,open,,señalero no asignado
+EV00012,2025-10-05,spence,operaciones,superintendencia 3,mantenimiento,bhp,safety interaction,medium,day,energy isolation,permit to work,E0064,open,,etiquetado incompleto
+EV00013,2025-12-27,escondida,mantenimiento,superintendencia 3,planta concentradora,bhp,hazard observation,low,day,traffic,ppe,E0025,closed,2026-01-05,exceso de velocidad en ruta interna
+EV00014,2025-11-18,escondida,mantenimiento,superintendencia 2,transporte,bhp,near miss,high,day,housekeeping,isolation,E0076,closed,2025-11-20,pasillo obstruido
+EV00015,2025-11-01,escondida,operaciones,superintendencia 3,mina rajo,bhp,hazard observation,low,day,hand safety,ppe,E0084,closed,2025-11-04,atrapamiento potencial
+EV00016,2025-12-11,escondida,mantenimiento,superintendencia 2,puerto/logística,contrato a,hazard observation,medium,day,mobile equipment,ppe,E0115,closed,2025-12-14,manejo defensivo deficiente
+EV00017,2025-12-04,escondida,operaciones,superintendencia 2,mina rajo,contrato a,safety interaction,low,day,housekeeping,permit to work,E0115,open,,cables en zona de tránsito
+EV00018,2025-10-24,escondida,supply,superintendencia 1,transporte,contrato a,safety interaction,low,day,energy isolation,barricade,E0053,closed,2025-10-25,etiquetado incompleto
+EV00019,2026-01-09,escondida,supply,superintendencia 1,transporte,contrato c,hazard observation,low,night,mobile equipment,barricade,E0127,closed,2026-01-12,falla en alarma de retroceso
+EV00020,2025-12-31,escondida,hss,superintendencia 2,mina rajo,contrato a,hazard observation,low,night,lifting,spotter,E0079,closed,2026-01-16,plan de izaje incompleto
+EV00021,2025-10-20,cerro colorado,mantenimiento,superintendencia 3,mina rajo,bhp,hazard observation,medium,night,traffic,jsa/ast,E0104,open,,cruce sin señalización
+EV00022,2025-10-31,cerro colorado,operaciones,superintendencia 1,chancado,contrato c,hazard observation,high,day,mobile equipment,barricade,E0014,open,,falla en alarma de retroceso
+EV00023,2025-12-13,escondida,operaciones,superintendencia 3,transporte,contrato b,hazard observation,low,day,mobile equipment,isolation,E0028,closed,2025-12-22,manejo defensivo deficiente
+EV00024,2025-10-03,escondida,supply,superintendencia 2,transporte,bhp,safety interaction,low,night,energy isolation,jsa/ast,E0023,closed,2025-10-09,aislamiento no verificado
+EV00025,2026-01-28,escondida,operaciones,superintendencia 2,campamento,contrato a,near miss,low,day,housekeeping,barricade,E0103,closed,2026-02-01,cables en zona de tránsito
+EV00026,2025-10-17,escondida,operaciones,superintendencia 2,mina rajo,bhp,near miss,medium,day,confined space,isolation,E0100,open,,monitoreo de gases pendiente
+EV00027,2026-01-16,escondida,hss,superintendencia 4,campamento,bhp,hazard observation,low,day,housekeeping,permit to work,E0006,open,,derrame de material
+EV00028,2025-12-16,escondida,operaciones,superintendencia 4,chancado,contrato c,safety interaction,low,day,energy isolation,pre-start check,E0024,closed,2025-12-25,etiquetado incompleto
+EV00029,2025-10-21,escondida,operaciones,superintendencia 2,mantenimiento,bhp,safety interaction,medium,day,mobile equipment,jsa/ast,E0035,open,,interacción pala-camión
+EV00030,2025-10-16,spence,hss,superintendencia 1,puerto/logística,bhp,high potential,medium,night,hand safety,permit to work,E0057,closed,2025-10-26,atrapamiento potencial
+EV00031,2025-11-13,spence,operaciones,superintendencia 3,mantenimiento,contrato c,hazard observation,high,day,housekeeping,lockout-tagout,E0054,closed,2025-12-30,cables en zona de tránsito
+EV00032,2025-11-13,escondida,operaciones,superintendencia 1,chancado,bhp,hazard observation,medium,day,energy isolation,jsa/ast,E0044,closed,2025-11-23,etiquetado incompleto
+EV00033,2025-11-09,escondida,mantenimiento,superintendencia 3,mantenimiento,contrato d,near miss,medium,night,hand safety,spotter,E0138,open,,herramienta sin guarda
+EV00034,2025-10-13,spence,operaciones,superintendencia 4,transporte,contrato d,near miss,low,night,lifting,permit to work,E0013,closed,2025-10-14,plan de izaje incompleto
+EV00035,2025-11-24,spence,mantenimiento,superintendencia 3,mina rajo,contrato b,safety interaction,low,day,traffic,jsa/ast,E0132,open,,exceso de velocidad en ruta interna
+EV00036,2025-12-10,spence,operaciones,superintendencia 1,planta concentradora,bhp,hazard observation,low,day,energy isolation,ppe,E0106,closed,2025-12-17,aislamiento no verificado
+EV00037,2025-12-21,escondida,operaciones,superintendencia 4,planta concentradora,bhp,hazard observation,high,night,lifting,isolation,E0038,closed,2025-12-27,señalero no asignado
+EV00038,2025-11-22,spence,operaciones,superintendencia 1,mina rajo,bhp,safety interaction,high,day,housekeeping,lockout-tagout,E0064,open,,derrame de material
+EV00039,2025-10-30,cerro colorado,mantenimiento,superintendencia 4,planta concentradora,bhp,hazard observation,high,day,housekeeping,ppe,E0037,closed,2025-11-20,pasillo obstruido
+EV00040,2025-12-26,escondida,mantenimiento,superintendencia 4,mantenimiento,contrato c,hazard observation,low,day,mobile equipment,lockout-tagout,E0138,closed,2025-12-27,interacción pala-camión
+EV00041,2025-11-04,escondida,supply,superintendencia 1,chancado,contrato b,near miss,low,day,working at height,barricade,E0032,open,,escalera sin amarre
+EV00042,2026-01-19,spence,supply,superintendencia 3,puerto/logística,contrato b,hazard observation,medium,day,traffic,spotter,E0076,closed,2026-02-07,punto ciego sin spotter
+EV00043,2026-01-15,cerro colorado,operaciones,superintendencia 1,campamento,bhp,incident,high,day,mobile equipment,pre-start check,E0050,open,,manejo defensivo deficiente
+EV00044,2025-12-19,escondida,supply,superintendencia 4,mina rajo,bhp,near miss,low,day,hand safety,ppe,E0079,closed,2025-12-22,atrapamiento potencial
+EV00045,2026-01-13,escondida,mantenimiento,superintendencia 2,mantenimiento,bhp,hazard observation,low,night,energy isolation,permit to work,E0008,closed,2026-01-23,candado faltante
+EV00046,2025-12-13,escondida,mantenimiento,superintendencia 1,transporte,contrato b,hazard observation,medium,day,confined space,isolation,E0099,open,,permiso vencido
+EV00047,2025-10-05,escondida,operaciones,superintendencia 1,planta concentradora,contrato c,near miss,low,day,mobile equipment,ppe,E0076,closed,2025-10-06,manejo defensivo deficiente
+EV00048,2025-10-07,escondida,operaciones,superintendencia 3,mina rajo,bhp,safety interaction,high,night,housekeeping,lockout-tagout,E0074,open,,cables en zona de tránsito
+EV00049,2025-12-25,spence,operaciones,superintendencia 1,transporte,bhp,safety interaction,medium,day,hand safety,isolation,E0074,closed,2026-01-03,atrapamiento potencial
+EV00050,2025-11-26,escondida,operaciones,superintendencia 1,mantenimiento,bhp,near miss,medium,night,working at height,lockout-tagout,E0089,closed,2025-12-09,plataforma sin baranda
+EV00051,2025-10-13,escondida,operaciones,superintendencia 2,puerto/logística,contrato d,hazard observation,low,night,traffic,lockout-tagout,E0027,closed,2025-10-17,punto ciego sin spotter
+EV00052,2025-12-25,escondida,supply,superintendencia 1,planta concentradora,bhp,near miss,low,day,lifting,permit to work,E0098,open,,señalero no asignado
+EV00053,2026-01-11,escondida,mantenimiento,superintendencia 1,chancado,bhp,hazard observation,low,night,traffic,pre-start check,E0044,closed,2026-01-17,exceso de velocidad en ruta interna
+EV00054,2025-12-03,escondida,mantenimiento,superintendencia 2,transporte,bhp,near miss,medium,day,working at height,permit to work,E0040,closed,2025-12-05,línea de vida no instalada
+EV00055,2025-12-17,spence,operaciones,superintendencia 2,mantenimiento,bhp,hazard observation,critical,night,mobile equipment,isolation,E0051,closed,2026-01-06,manejo defensivo deficiente
+EV00056,2025-11-03,escondida,operaciones,superintendencia 3,planta concentradora,bhp,hazard observation,medium,day,working at height,jsa/ast,E0119,open,,línea de vida no instalada
+EV00057,2026-01-25,escondida,operaciones,superintendencia 2,campamento,bhp,near miss,medium,day,housekeeping,jsa/ast,E0002,closed,2026-01-27,cables en zona de tránsito
+EV00058,2025-11-12,escondida,hss,superintendencia 4,campamento,contrato c,safety interaction,medium,night,traffic,ppe,E0047,open,,punto ciego sin spotter
+EV00059,2026-01-04,escondida,operaciones,superintendencia 1,chancado,contrato c,hazard observation,low,night,mobile equipment,jsa/ast,E0124,closed,2026-01-09,manejo defensivo deficiente
+EV00060,2025-10-10,escondida,mantenimiento,superintendencia 2,campamento,contrato c,hazard observation,low,night,hand safety,isolation,E0010,closed,2025-10-15,uso incorrecto de guantes
+EV00061,2025-10-02,escondida,hss,superintendencia 2,planta concentradora,bhp,hazard observation,medium,day,traffic,barricade,E0095,closed,2025-10-21,punto ciego sin spotter
+EV00062,2025-10-26,escondida,mantenimiento,superintendencia 2,transporte,bhp,safety interaction,low,night,energy isolation,barricade,E0065,closed,2025-11-01,etiquetado incompleto
+EV00063,2025-12-23,escondida,operaciones,superintendencia 4,planta concentradora,contrato a,safety interaction,medium,day,energy isolation,jsa/ast,E0135,open,,candado faltante
+EV00064,2025-12-04,cerro colorado,mantenimiento,superintendencia 2,puerto/logística,bhp,safety interaction,high,night,lifting,ppe,E0038,open,,plan de izaje incompleto
+EV00065,2025-10-11,escondida,hss,superintendencia 4,campamento,bhp,hazard observation,medium,day,confined space,pre-start check,E0059,open,,ventilación insuficiente
+EV00066,2025-10-28,spence,supply,superintendencia 2,transporte,bhp,safety interaction,high,day,traffic,pre-start check,E0123,open,,exceso de velocidad en ruta interna
+EV00067,2026-01-28,escondida,mantenimiento,superintendencia 3,mantenimiento,bhp,hazard observation,low,day,housekeeping,pre-start check,E0036,open,,cables en zona de tránsito
+EV00068,2025-12-29,spence,operaciones,superintendencia 1,mantenimiento,bhp,hazard observation,low,day,housekeeping,ppe,E0048,closed,2026-01-08,pasillo obstruido
+EV00069,2025-11-12,escondida,supply,superintendencia 2,planta concentradora,contrato a,safety interaction,critical,day,hand safety,spotter,E0051,open,,uso incorrecto de guantes
+EV00070,2026-01-22,escondida,hss,superintendencia 4,mantenimiento,contrato b,hazard observation,low,day,confined space,lockout-tagout,E0127,closed,2026-01-23,monitoreo de gases pendiente
+EV00071,2026-01-17,escondida,operaciones,superintendencia 4,chancado,bhp,hazard observation,medium,night,mobile equipment,pre-start check,E0120,open,,falla en alarma de retroceso
+EV00072,2025-11-14,escondida,servicios,superintendencia 3,transporte,bhp,high potential,medium,day,energy isolation,barricade,E0006,closed,2025-11-25,aislamiento no verificado
+EV00073,2025-11-18,escondida,supply,superintendencia 1,transporte,bhp,near miss,high,day,traffic,permit to work,E0087,open,,cruce sin señalización
+EV00074,2025-10-06,spence,mantenimiento,superintendencia 2,mina rajo,bhp,hazard observation,low,day,energy isolation,pre-start check,E0127,closed,2025-10-12,etiquetado incompleto
+EV00075,2026-01-15,escondida,servicios,superintendencia 3,puerto/logística,contrato d,safety interaction,high,day,energy isolation,spotter,E0033,closed,2026-03-09,aislamiento no verificado
+EV00076,2025-10-29,cerro colorado,supply,superintendencia 4,planta concentradora,contrato b,incident,medium,day,energy isolation,barricade,E0012,closed,2025-11-14,candado faltante
+EV00077,2026-01-19,spence,hss,superintendencia 1,chancado,contrato b,incident,medium,day,traffic,isolation,E0055,closed,2026-01-21,cruce sin señalización
+EV00078,2025-10-08,escondida,hss,superintendencia 1,chancado,contrato a,incident,low,day,hand safety,barricade,E0095,open,,atrapamiento potencial
+EV00079,2025-11-28,spence,operaciones,superintendencia 3,mantenimiento,bhp,hazard observation,low,day,housekeeping,barricade,E0128,closed,2025-12-13,cables en zona de tránsito
+EV00080,2025-12-02,escondida,hss,superintendencia 4,campamento,contrato a,incident,low,day,energy isolation,permit to work,E0122,closed,2025-12-07,etiquetado incompleto
+EV00081,2025-10-25,escondida,mantenimiento,superintendencia 2,planta concentradora,contrato a,hazard observation,low,night,hand safety,isolation,E0056,open,,atrapamiento potencial
+EV00082,2025-11-19,escondida,hss,superintendencia 2,planta concentradora,bhp,safety interaction,high,day,traffic,permit to work,E0022,closed,2025-11-25,exceso de velocidad en ruta interna
+EV00083,2025-12-31,escondida,mantenimiento,superintendencia 3,transporte,contrato d,hazard observation,low,day,hand safety,isolation,E0100,closed,2026-01-04,uso incorrecto de guantes
+EV00084,2026-01-22,escondida,supply,superintendencia 4,mantenimiento,contrato a,hazard observation,high,night,lifting,permit to work,E0038,open,,eslinga con desgaste
+EV00085,2025-12-18,escondida,mantenimiento,superintendencia 4,mantenimiento,bhp,safety interaction,medium,day,traffic,pre-start check,E0075,open,,exceso de velocidad en ruta interna
+EV00086,2025-12-16,escondida,hss,superintendencia 3,puerto/logística,contrato c,safety interaction,low,day,confined space,jsa/ast,E0064,open,,ventilación insuficiente
+EV00087,2025-10-27,escondida,hss,superintendencia 2,mina rajo,contrato c,hazard observation,low,day,lifting,barricade,E0074,closed,2025-10-30,eslinga con desgaste
+EV00088,2025-10-09,spence,mantenimiento,superintendencia 3,campamento,contrato d,safety interaction,medium,night,lifting,isolation,E0139,open,,señalero no asignado
+EV00089,2026-01-06,escondida,hss,superintendencia 2,mina rajo,bhp,hazard observation,low,night,hand safety,barricade,E0099,open,,uso incorrecto de guantes
+EV00090,2025-11-26,escondida,operaciones,superintendencia 1,mantenimiento,bhp,near miss,high,night,housekeeping,lockout-tagout,E0130,open,,cables en zona de tránsito
+EV00091,2025-10-13,escondida,operaciones,superintendencia 3,planta concentradora,bhp,near miss,low,day,mobile equipment,barricade,E0127,closed,2025-10-15,manejo defensivo deficiente
+EV00092,2025-11-13,spence,mantenimiento,superintendencia 1,mina rajo,bhp,near miss,low,day,mobile equipment,barricade,E0053,closed,2025-11-30,falla en alarma de retroceso
+EV00093,2025-11-20,escondida,operaciones,superintendencia 3,mantenimiento,bhp,incident,medium,night,hand safety,spotter,E0010,open,,uso incorrecto de guantes
+EV00094,2025-10-19,escondida,operaciones,superintendencia 1,planta concentradora,bhp,hazard observation,medium,day,confined space,isolation,E0102,closed,2025-10-21,permiso vencido
+EV00095,2025-10-06,spence,operaciones,superintendencia 2,planta concentradora,contrato a,high potential,medium,day,lifting,permit to work,E0095,open,,eslinga con desgaste
+EV00096,2025-10-30,cerro colorado,operaciones,superintendencia 3,mina rajo,contrato d,hazard observation,medium,day,hand safety,spotter,E0132,closed,2025-11-02,herramienta sin guarda
+EV00097,2025-12-08,spence,mantenimiento,superintendencia 1,transporte,bhp,safety interaction,high,night,energy isolation,lockout-tagout,E0027,open,,etiquetado incompleto
+EV00098,2025-12-17,escondida,operaciones,superintendencia 4,mina rajo,bhp,hazard observation,high,night,hand safety,lockout-tagout,E0050,closed,2026-01-16,atrapamiento potencial
+EV00099,2025-12-31,escondida,operaciones,superintendencia 3,campamento,contrato c,hazard observation,low,day,hand safety,barricade,E0020,closed,2026-01-01,uso incorrecto de guantes
+EV00100,2025-10-06,cerro colorado,operaciones,superintendencia 1,mina rajo,contrato a,hazard observation,low,day,traffic,permit to work,E0113,closed,2025-10-08,cruce sin señalización
+EV00101,2025-11-25,escondida,operaciones,superintendencia 3,mina rajo,contrato a,hazard observation,high,day,mobile equipment,lockout-tagout,E0124,closed,2026-01-27,interacción pala-camión
+EV00102,2025-10-03,escondida,mantenimiento,superintendencia 2,chancado,contrato a,safety interaction,low,night,hand safety,jsa/ast,E0067,open,,atrapamiento potencial
+EV00103,2026-01-22,cerro colorado,operaciones,superintendencia 2,planta concentradora,bhp,safety interaction,low,night,mobile equipment,pre-start check,E0131,open,,interacción pala-camión
+EV00104,2025-11-05,escondida,supply,superintendencia 3,transporte,bhp,hazard observation,high,day,housekeeping,permit to work,E0047,open,,cables en zona de tránsito
+EV00105,2025-11-02,spence,operaciones,superintendencia 1,transporte,contrato c,incident,medium,night,mobile equipment,permit to work,E0050,closed,2025-11-11,falla en alarma de retroceso
+EV00106,2025-10-01,escondida,hss,superintendencia 4,planta concentradora,contrato c,incident,medium,day,energy isolation,lockout-tagout,E0024,closed,2025-10-06,candado faltante
+EV00107,2025-10-12,escondida,operaciones,superintendencia 3,transporte,bhp,near miss,critical,day,traffic,barricade,E0092,open,,punto ciego sin spotter
+EV00108,2025-11-06,cerro colorado,operaciones,superintendencia 3,puerto/logística,contrato b,safety interaction,high,day,traffic,jsa/ast,E0016,closed,2025-11-26,exceso de velocidad en ruta interna
+EV00109,2025-12-11,spence,mantenimiento,superintendencia 1,puerto/logística,bhp,near miss,low,night,working at height,permit to work,E0043,closed,2025-12-13,línea de vida no instalada
+EV00110,2025-10-20,escondida,supply,superintendencia 1,mantenimiento,bhp,safety interaction,low,day,housekeeping,lockout-tagout,E0134,open,,derrame de material
+EV00111,2025-11-15,spence,servicios,superintendencia 2,planta concentradora,bhp,hazard observation,medium,day,working at height,isolation,E0032,open,,escalera sin amarre
+EV00112,2025-12-21,spence,operaciones,superintendencia 2,mantenimiento,bhp,near miss,medium,day,confined space,jsa/ast,E0108,closed,2025-12-28,monitoreo de gases pendiente
+EV00113,2025-12-14,spence,operaciones,superintendencia 1,mantenimiento,contrato b,hazard observation,low,day,lifting,pre-start check,E0103,closed,2026-01-09,señalero no asignado
+EV00114,2025-12-30,escondida,supply,superintendencia 3,chancado,bhp,hazard observation,medium,day,housekeeping,isolation,E0084,closed,2026-01-20,pasillo obstruido
+EV00115,2025-10-25,escondida,operaciones,superintendencia 4,transporte,contrato d,safety interaction,high,night,confined space,barricade,E0009,closed,2025-11-09,monitoreo de gases pendiente
+EV00116,2026-01-05,escondida,mantenimiento,superintendencia 1,campamento,contrato a,hazard observation,medium,day,hand safety,spotter,E0029,closed,2026-01-25,uso incorrecto de guantes
+EV00117,2025-11-07,escondida,operaciones,superintendencia 3,planta concentradora,bhp,near miss,high,day,housekeeping,spotter,E0105,open,,cables en zona de tránsito
+EV00118,2026-01-21,escondida,operaciones,superintendencia 3,mina rajo,contrato c,near miss,medium,night,working at height,pre-start check,E0118,closed,2026-02-02,plataforma sin baranda
+EV00119,2025-11-20,escondida,servicios,superintendencia 1,chancado,bhp,hazard observation,medium,day,housekeeping,barricade,E0091,closed,2025-11-21,derrame de material
+EV00120,2025-12-02,spence,mantenimiento,superintendencia 4,mina rajo,bhp,incident,low,day,mobile equipment,isolation,E0090,closed,2025-12-16,manejo defensivo deficiente
+EV00121,2025-12-14,escondida,servicios,superintendencia 3,chancado,contrato b,hazard observation,low,night,traffic,permit to work,E0107,open,,exceso de velocidad en ruta interna
+EV00122,2026-01-18,escondida,operaciones,superintendencia 3,planta concentradora,contrato c,near miss,medium,night,traffic,lockout-tagout,E0069,open,,punto ciego sin spotter
+EV00123,2025-12-07,spence,operaciones,superintendencia 1,campamento,bhp,safety interaction,medium,day,hand safety,permit to work,E0107,closed,2025-12-09,uso incorrecto de guantes
+EV00124,2026-01-25,spence,operaciones,superintendencia 4,mantenimiento,contrato b,hazard observation,low,day,housekeeping,jsa/ast,E0083,closed,2026-02-07,derrame de material
+EV00125,2025-11-11,spence,mantenimiento,superintendencia 4,campamento,bhp,near miss,high,day,energy isolation,ppe,E0023,open,,etiquetado incompleto
+EV00126,2025-10-13,escondida,servicios,superintendencia 3,campamento,bhp,hazard observation,high,day,mobile equipment,lockout-tagout,E0077,open,,falla en alarma de retroceso
+EV00127,2025-12-26,spence,supply,superintendencia 4,mantenimiento,bhp,hazard observation,medium,day,hand safety,isolation,E0135,closed,2026-01-04,atrapamiento potencial
+EV00128,2025-11-07,escondida,operaciones,superintendencia 2,mina rajo,contrato c,high potential,medium,day,traffic,pre-start check,E0136,open,,punto ciego sin spotter
+EV00129,2025-11-16,spence,operaciones,superintendencia 1,planta concentradora,contrato c,near miss,low,night,traffic,jsa/ast,E0041,open,,punto ciego sin spotter
+EV00130,2025-10-20,escondida,mantenimiento,superintendencia 2,chancado,bhp,hazard observation,medium,day,housekeeping,barricade,E0106,closed,2025-11-10,derrame de material
+EV00131,2026-01-19,spence,hss,superintendencia 1,mina rajo,contrato d,hazard observation,low,day,mobile equipment,permit to work,E0128,open,,falla en alarma de retroceso
+EV00132,2025-12-28,escondida,servicios,superintendencia 2,campamento,contrato a,hazard observation,low,day,traffic,isolation,E0008,closed,2026-01-17,cruce sin señalización
+EV00133,2025-12-20,escondida,mantenimiento,superintendencia 4,puerto/logística,contrato a,safety interaction,low,day,traffic,pre-start check,E0037,closed,2025-12-27,punto ciego sin spotter
+EV00134,2026-01-23,escondida,operaciones,superintendencia 1,mina rajo,contrato c,incident,low,day,traffic,barricade,E0014,closed,2026-01-31,cruce sin señalización
+EV00135,2026-01-13,spence,supply,superintendencia 4,mantenimiento,bhp,hazard observation,low,day,housekeeping,permit to work,E0081,open,,derrame de material
+EV00136,2025-11-28,spence,operaciones,superintendencia 3,transporte,contrato d,near miss,high,day,energy isolation,ppe,E0106,closed,2025-12-01,etiquetado incompleto
+EV00137,2025-12-14,escondida,operaciones,superintendencia 2,transporte,bhp,hazard observation,low,day,hand safety,jsa/ast,E0093,open,,atrapamiento potencial
+EV00138,2025-10-05,escondida,operaciones,superintendencia 1,campamento,contrato d,hazard observation,high,day,energy isolation,lockout-tagout,E0073,closed,2025-11-16,etiquetado incompleto
+EV00139,2025-10-21,escondida,mantenimiento,superintendencia 3,planta concentradora,contrato c,hazard observation,low,day,housekeeping,permit to work,E0114,closed,2025-11-10,pasillo obstruido
+EV00140,2026-01-21,spence,operaciones,superintendencia 3,transporte,bhp,hazard observation,medium,day,energy isolation,lockout-tagout,E0130,closed,2026-02-03,candado faltante
+EV00141,2025-10-31,escondida,operaciones,superintendencia 3,chancado,contrato a,hazard observation,critical,day,lifting,ppe,E0033,closed,2025-11-22,eslinga con desgaste
+EV00142,2025-12-19,escondida,servicios,superintendencia 4,planta concentradora,bhp,safety interaction,low,day,traffic,permit to work,E0060,open,,exceso de velocidad en ruta interna
+EV00143,2025-10-11,escondida,operaciones,superintendencia 3,campamento,contrato c,safety interaction,low,night,mobile equipment,spotter,E0033,closed,2025-10-23,falla en alarma de retroceso
+EV00144,2026-01-28,escondida,servicios,superintendencia 4,mina rajo,contrato b,incident,high,day,working at height,barricade,E0094,open,,plataforma sin baranda
+EV00145,2025-11-11,spence,servicios,superintendencia 1,transporte,contrato a,safety interaction,low,night,energy isolation,isolation,E0047,closed,2025-11-15,etiquetado incompleto
+EV00146,2025-12-28,escondida,hss,superintendencia 1,campamento,bhp,near miss,low,night,mobile equipment,barricade,E0080,open,,falla en alarma de retroceso
+EV00147,2025-12-27,escondida,servicios,superintendencia 4,planta concentradora,contrato b,hazard observation,low,night,energy isolation,barricade,E0029,closed,2026-01-04,aislamiento no verificado
+EV00148,2025-10-12,escondida,servicios,superintendencia 1,planta concentradora,contrato d,safety interaction,low,day,traffic,pre-start check,E0023,closed,2025-10-15,exceso de velocidad en ruta interna
+EV00149,2025-12-06,escondida,hss,superintendencia 2,mina rajo,bhp,hazard observation,high,day,hand safety,lockout-tagout,E0131,closed,2025-12-15,atrapamiento potencial
+EV00150,2025-11-12,escondida,mantenimiento,superintendencia 2,planta concentradora,bhp,hazard observation,high,night,housekeeping,permit to work,E0140,closed,2025-11-28,derrame de material
+EV00151,2025-10-18,cerro colorado,mantenimiento,superintendencia 2,mantenimiento,contrato d,hazard observation,low,day,traffic,permit to work,E0035,closed,2025-10-22,punto ciego sin spotter
+EV00152,2026-01-26,spence,operaciones,superintendencia 2,transporte,bhp,safety interaction,low,night,traffic,permit to work,E0037,closed,2026-01-27,punto ciego sin spotter
+EV00153,2026-01-21,escondida,servicios,superintendencia 4,mina rajo,contrato b,hazard observation,medium,day,lifting,jsa/ast,E0053,closed,2026-02-01,eslinga con desgaste
+EV00154,2025-11-06,escondida,mantenimiento,superintendencia 1,planta concentradora,bhp,hazard observation,low,night,lifting,isolation,E0042,open,,plan de izaje incompleto
+EV00155,2025-11-10,escondida,operaciones,superintendencia 1,mantenimiento,bhp,near miss,critical,day,traffic,pre-start check,E0068,closed,2025-12-23,cruce sin señalización
+EV00156,2025-12-04,escondida,mantenimiento,superintendencia 3,puerto/logística,bhp,incident,medium,night,hand safety,spotter,E0063,closed,2025-12-20,atrapamiento potencial
+EV00157,2025-10-06,escondida,hss,superintendencia 2,planta concentradora,bhp,hazard observation,medium,night,hand safety,permit to work,E0027,open,,herramienta sin guarda
+EV00158,2025-12-25,spence,operaciones,superintendencia 2,transporte,contrato a,hazard observation,low,day,hand safety,spotter,E0062,closed,2025-12-28,atrapamiento potencial
+EV00159,2026-01-27,escondida,mantenimiento,superintendencia 4,mantenimiento,contrato c,incident,medium,day,mobile equipment,spotter,E0021,closed,2026-01-28,interacción pala-camión
+EV00160,2025-11-07,escondida,mantenimiento,superintendencia 4,planta concentradora,bhp,hazard observation,low,day,traffic,barricade,E0009,closed,2025-11-09,punto ciego sin spotter
+EV00161,2025-10-23,spence,operaciones,superintendencia 3,transporte,bhp,hazard observation,medium,night,mobile equipment,barricade,E0046,open,,falla en alarma de retroceso
+EV00162,2025-12-26,escondida,mantenimiento,superintendencia 3,mina rajo,contrato a,near miss,medium,day,lifting,permit to work,E0103,open,,señalero no asignado
+EV00163,2025-12-17,escondida,operaciones,superintendencia 3,transporte,contrato a,hazard observation,medium,night,lifting,permit to work,E0077,closed,2025-12-30,plan de izaje incompleto
+EV00164,2026-01-21,escondida,servicios,superintendencia 2,mantenimiento,contrato b,hazard observation,low,night,energy isolation,jsa/ast,E0093,open,,aislamiento no verificado
+EV00165,2025-10-24,escondida,operaciones,superintendencia 2,chancado,bhp,incident,medium,day,hand safety,spotter,E0025,open,,atrapamiento potencial
+EV00166,2025-12-13,escondida,mantenimiento,superintendencia 4,mina rajo,bhp,near miss,low,day,housekeeping,isolation,E0105,closed,2025-12-14,cables en zona de tránsito
+EV00167,2025-11-16,escondida,servicios,superintendencia 1,chancado,contrato a,high potential,medium,day,traffic,permit to work,E0050,closed,2025-12-01,punto ciego sin spotter
+EV00168,2026-01-01,escondida,operaciones,superintendencia 1,planta concentradora,bhp,hazard observation,low,night,hand safety,lockout-tagout,E0077,closed,2026-01-11,atrapamiento potencial
+EV00169,2025-12-24,spence,servicios,superintendencia 2,chancado,contrato a,incident,high,day,traffic,pre-start check,E0003,open,,exceso de velocidad en ruta interna
+EV00170,2025-10-29,escondida,hss,superintendencia 3,mina rajo,contrato b,hazard observation,medium,day,housekeeping,isolation,E0009,closed,2025-11-05,cables en zona de tránsito
+EV00171,2025-11-15,escondida,hss,superintendencia 1,mina rajo,contrato c,near miss,low,day,mobile equipment,spotter,E0048,closed,2025-11-16,interacción pala-camión
+EV00172,2026-01-12,escondida,hss,superintendencia 4,mina rajo,contrato c,near miss,low,night,traffic,spotter,E0114,open,,cruce sin señalización
+EV00173,2025-11-12,escondida,mantenimiento,superintendencia 4,puerto/logística,contrato c,safety interaction,low,day,confined space,jsa/ast,E0122,closed,2025-11-16,permiso vencido
+EV00174,2025-12-24,escondida,operaciones,superintendencia 1,chancado,bhp,near miss,low,day,traffic,ppe,E0044,closed,2025-12-26,exceso de velocidad en ruta interna
+EV00175,2025-10-28,spence,mantenimiento,superintendencia 3,mina rajo,bhp,hazard observation,medium,day,working at height,barricade,E0038,open,,plataforma sin baranda
+EV00176,2025-10-23,escondida,operaciones,superintendencia 3,mina rajo,bhp,near miss,medium,day,traffic,isolation,E0052,open,,exceso de velocidad en ruta interna
+EV00177,2026-01-26,escondida,operaciones,superintendencia 3,mantenimiento,contrato c,hazard observation,high,day,mobile equipment,pre-start check,E0093,closed,2026-02-05,falla en alarma de retroceso
+EV00178,2025-10-31,spence,servicios,superintendencia 4,mina rajo,bhp,safety interaction,medium,night,traffic,pre-start check,E0063,closed,2025-11-06,cruce sin señalización
+EV00179,2026-01-18,cerro colorado,operaciones,superintendencia 4,planta concentradora,bhp,hazard observation,medium,night,housekeeping,permit to work,E0078,closed,2026-02-17,cables en zona de tránsito
+EV00180,2025-11-29,escondida,mantenimiento,superintendencia 3,transporte,bhp,hazard observation,high,day,energy isolation,pre-start check,E0120,open,,etiquetado incompleto
+EV00181,2025-10-28,cerro colorado,hss,superintendencia 1,transporte,contrato c,hazard observation,low,night,housekeeping,permit to work,E0069,open,,derrame de material
+EV00182,2025-10-19,spence,operaciones,superintendencia 2,planta concentradora,contrato c,hazard observation,medium,day,working at height,barricade,E0034,open,,plataforma sin baranda
+EV00183,2025-10-18,escondida,servicios,superintendencia 3,planta concentradora,contrato b,hazard observation,low,night,mobile equipment,pre-start check,E0008,open,,interacción pala-camión
+EV00184,2025-10-05,escondida,operaciones,superintendencia 4,campamento,bhp,safety interaction,low,day,lifting,barricade,E0023,closed,2025-10-13,señalero no asignado
+EV00185,2026-01-04,escondida,supply,superintendencia 4,transporte,bhp,near miss,low,night,housekeeping,pre-start check,E0015,open,,pasillo obstruido
+EV00186,2025-10-31,escondida,operaciones,superintendencia 1,transporte,bhp,hazard observation,medium,night,energy isolation,pre-start check,E0109,open,,etiquetado incompleto
+EV00187,2026-01-12,escondida,mantenimiento,superintendencia 3,mantenimiento,bhp,near miss,high,day,mobile equipment,spotter,E0117,open,,falla en alarma de retroceso
+EV00188,2026-01-15,escondida,supply,superintendencia 2,mantenimiento,bhp,near miss,low,night,hand safety,permit to work,E0059,open,,uso incorrecto de guantes
+EV00189,2025-12-19,spence,operaciones,superintendencia 2,planta concentradora,bhp,near miss,low,night,working at height,pre-start check,E0039,closed,2026-01-14,línea de vida no instalada
+EV00190,2025-10-14,spence,hss,superintendencia 1,campamento,bhp,safety interaction,low,night,working at height,pre-start check,E0100,open,,escalera sin amarre
+EV00191,2025-11-25,escondida,operaciones,superintendencia 1,transporte,bhp,near miss,low,night,mobile equipment,jsa/ast,E0105,closed,2025-11-29,manejo defensivo deficiente
+EV00192,2026-01-16,cerro colorado,operaciones,superintendencia 3,mantenimiento,bhp,safety interaction,low,day,energy isolation,jsa/ast,E0072,closed,2026-01-19,etiquetado incompleto
+EV00193,2025-11-18,spence,supply,superintendencia 2,chancado,bhp,incident,medium,night,mobile equipment,spotter,E0073,open,,interacción pala-camión
+EV00194,2025-11-25,escondida,servicios,superintendencia 2,chancado,bhp,near miss,high,day,mobile equipment,ppe,E0093,open,,interacción pala-camión
+EV00195,2025-12-31,spence,operaciones,superintendencia 2,campamento,contrato d,hazard observation,low,day,hand safety,barricade,E0035,open,,uso incorrecto de guantes
+EV00196,2025-10-27,escondida,operaciones,superintendencia 2,transporte,bhp,hazard observation,low,night,traffic,jsa/ast,E0086,closed,2025-11-01,cruce sin señalización
+EV00197,2026-01-24,escondida,mantenimiento,superintendencia 1,planta concentradora,bhp,near miss,low,day,mobile equipment,barricade,E0013,open,,manejo defensivo deficiente
+EV00198,2025-12-29,escondida,supply,superintendencia 2,planta concentradora,bhp,hazard observation,low,day,traffic,isolation,E0136,closed,2026-01-05,exceso de velocidad en ruta interna
+EV00199,2025-12-24,spence,operaciones,superintendencia 2,puerto/logística,contrato c,high potential,low,day,traffic,barricade,E0068,open,,exceso de velocidad en ruta interna
+EV00200,2026-01-06,escondida,mantenimiento,superintendencia 4,planta concentradora,contrato b,high potential,low,day,mobile equipment,lockout-tagout,E0140,open,,manejo defensivo deficiente
+EV00201,2025-11-19,escondida,supply,superintendencia 3,transporte,bhp,hazard observation,low,night,energy isolation,jsa/ast,E0105,closed,2025-11-20,candado faltante
+EV00202,2026-01-19,spence,operaciones,superintendencia 3,mantenimiento,contrato b,safety interaction,critical,night,traffic,isolation,E0009,open,,punto ciego sin spotter
+EV00203,2025-12-12,escondida,operaciones,superintendencia 4,transporte,bhp,hazard observation,critical,day,traffic,lockout-tagout,E0131,open,,exceso de velocidad en ruta interna
+EV00204,2025-12-02,escondida,operaciones,superintendencia 4,puerto/logística,bhp,hazard observation,critical,day,traffic,pre-start check,E0019,open,,punto ciego sin spotter
+EV00205,2025-10-23,spence,supply,superintendencia 3,transporte,bhp,safety interaction,high,day,housekeeping,ppe,E0037,closed,2025-11-12,derrame de material
+EV00206,2025-11-15,cerro colorado,mantenimiento,superintendencia 2,mantenimiento,contrato c,hazard observation,low,night,lifting,barricade,E0083,closed,2025-11-30,plan de izaje incompleto
+EV00207,2025-12-11,escondida,operaciones,superintendencia 4,campamento,bhp,hazard observation,low,day,confined space,spotter,E0116,closed,2025-12-14,monitoreo de gases pendiente
+EV00208,2025-10-01,escondida,supply,superintendencia 1,mina rajo,bhp,near miss,high,night,mobile equipment,permit to work,E0094,closed,2025-10-05,manejo defensivo deficiente
+EV00209,2025-10-23,escondida,operaciones,superintendencia 3,mina rajo,contrato c,hazard observation,medium,day,working at height,permit to work,E0079,open,,plataforma sin baranda
+EV00210,2025-12-26,escondida,operaciones,superintendencia 3,campamento,contrato c,hazard observation,medium,night,working at height,jsa/ast,E0075,closed,2026-01-20,plataforma sin baranda
+EV00211,2025-11-22,spence,hss,superintendencia 4,puerto/logística,bhp,safety interaction,low,day,traffic,spotter,E0091,closed,2025-11-27,cruce sin señalización
+EV00212,2025-11-09,escondida,supply,superintendencia 2,mantenimiento,contrato d,incident,medium,day,working at height,isolation,E0021,closed,2025-11-19,escalera sin amarre
+EV00213,2025-12-11,escondida,mantenimiento,superintendencia 1,mantenimiento,bhp,near miss,high,night,lifting,lockout-tagout,E0046,open,,eslinga con desgaste
+EV00214,2025-12-10,escondida,mantenimiento,superintendencia 1,chancado,contrato b,safety interaction,low,day,traffic,pre-start check,E0100,closed,2025-12-12,exceso de velocidad en ruta interna
+EV00215,2025-10-03,escondida,operaciones,superintendencia 1,mina rajo,bhp,hazard observation,medium,day,mobile equipment,ppe,E0086,open,,manejo defensivo deficiente
+EV00216,2025-12-06,spence,hss,superintendencia 2,mantenimiento,contrato d,safety interaction,high,day,energy isolation,barricade,E0048,closed,2025-12-23,aislamiento no verificado
+EV00217,2025-10-25,escondida,operaciones,superintendencia 3,mina rajo,contrato a,hazard observation,low,night,traffic,spotter,E0078,closed,2025-10-28,cruce sin señalización
+EV00218,2026-01-20,spence,servicios,superintendencia 3,transporte,bhp,hazard observation,low,night,hand safety,lockout-tagout,E0037,closed,2026-02-15,uso incorrecto de guantes
+EV00219,2025-10-22,cerro colorado,mantenimiento,superintendencia 1,mina rajo,contrato b,hazard observation,low,night,confined space,barricade,E0071,closed,2025-10-31,permiso vencido
+EV00220,2025-12-14,spence,hss,superintendencia 4,mina rajo,bhp,safety interaction,low,day,working at height,isolation,E0013,closed,2025-12-17,línea de vida no instalada
+EV00221,2026-01-18,spence,mantenimiento,superintendencia 2,planta concentradora,bhp,safety interaction,medium,day,working at height,spotter,E0055,open,,plataforma sin baranda
+EV00222,2025-10-01,spence,supply,superintendencia 2,planta concentradora,bhp,near miss,low,day,mobile equipment,ppe,E0066,closed,2025-10-03,falla en alarma de retroceso
+EV00223,2025-10-24,cerro colorado,operaciones,superintendencia 1,transporte,contrato d,hazard observation,low,day,traffic,pre-start check,E0040,closed,2025-10-30,exceso de velocidad en ruta interna
+EV00224,2025-12-16,cerro colorado,servicios,superintendencia 2,mina rajo,contrato d,safety interaction,low,night,energy isolation,permit to work,E0075,closed,2025-12-18,candado faltante
+EV00225,2026-01-01,escondida,operaciones,superintendencia 2,transporte,contrato b,hazard observation,medium,day,confined space,isolation,E0054,open,,monitoreo de gases pendiente
+EV00226,2025-11-20,cerro colorado,operaciones,superintendencia 3,mantenimiento,bhp,safety interaction,high,night,working at height,spotter,E0078,open,,plataforma sin baranda
+EV00227,2025-11-05,escondida,operaciones,superintendencia 4,transporte,bhp,incident,high,day,hand safety,barricade,E0026,open,,atrapamiento potencial
+EV00228,2025-10-26,escondida,mantenimiento,superintendencia 1,puerto/logística,bhp,hazard observation,medium,day,energy isolation,isolation,E0077,open,,candado faltante
+EV00229,2025-11-28,spence,hss,superintendencia 1,chancado,contrato b,near miss,medium,day,housekeeping,isolation,E0106,open,,cables en zona de tránsito
+EV00230,2025-11-24,escondida,servicios,superintendencia 1,mina rajo,bhp,safety interaction,low,day,hand safety,pre-start check,E0002,closed,2025-11-25,herramienta sin guarda
+EV00231,2025-11-10,spence,operaciones,superintendencia 1,chancado,bhp,hazard observation,low,day,housekeeping,pre-start check,E0120,closed,2025-11-16,derrame de material
+EV00232,2025-10-21,escondida,mantenimiento,superintendencia 3,mantenimiento,contrato d,hazard observation,medium,night,hand safety,ppe,E0025,closed,2025-11-04,atrapamiento potencial
+EV00233,2025-10-09,escondida,hss,superintendencia 2,planta concentradora,contrato b,hazard observation,medium,day,working at height,barricade,E0109,closed,2025-10-18,escalera sin amarre
+EV00234,2026-01-14,escondida,mantenimiento,superintendencia 1,planta concentradora,bhp,near miss,low,day,traffic,barricade,E0063,open,,cruce sin señalización
+EV00235,2025-11-03,escondida,operaciones,superintendencia 2,puerto/logística,contrato c,hazard observation,high,day,hand safety,barricade,E0082,open,,uso incorrecto de guantes
+EV00236,2025-10-12,spence,hss,superintendencia 2,planta concentradora,contrato b,safety interaction,low,day,mobile equipment,ppe,E0057,closed,2025-10-27,falla en alarma de retroceso
+EV00237,2026-01-02,escondida,supply,superintendencia 4,puerto/logística,bhp,near miss,low,day,housekeeping,isolation,E0051,closed,2026-01-06,cables en zona de tránsito
+EV00238,2026-01-27,escondida,operaciones,superintendencia 3,mina rajo,contrato a,safety interaction,medium,night,lifting,spotter,E0078,closed,2026-01-30,eslinga con desgaste
+EV00239,2025-12-03,spence,servicios,superintendencia 2,campamento,bhp,safety interaction,high,night,energy isolation,isolation,E0018,closed,2025-12-10,etiquetado incompleto
+EV00240,2025-11-08,spence,operaciones,superintendencia 4,campamento,contrato a,incident,medium,night,hand safety,barricade,E0101,closed,2025-11-16,herramienta sin guarda
+EV00241,2025-12-21,spence,hss,superintendencia 3,transporte,contrato c,hazard observation,low,night,confined space,pre-start check,E0110,closed,2025-12-29,ventilación insuficiente
+EV00242,2026-01-22,escondida,operaciones,superintendencia 1,chancado,contrato c,near miss,low,day,mobile equipment,ppe,E0022,open,,manejo defensivo deficiente
+EV00243,2025-12-24,escondida,operaciones,superintendencia 3,chancado,bhp,hazard observation,medium,day,traffic,ppe,E0031,closed,2026-01-06,cruce sin señalización
+EV00244,2026-01-19,escondida,servicios,superintendencia 2,planta concentradora,bhp,hazard observation,low,day,energy isolation,jsa/ast,E0079,closed,2026-01-20,etiquetado incompleto
+EV00245,2025-12-28,escondida,hss,superintendencia 2,campamento,contrato c,high potential,low,day,confined space,isolation,E0063,closed,2025-12-29,ventilación insuficiente
+EV00246,2025-11-11,escondida,hss,superintendencia 1,mantenimiento,contrato d,safety interaction,medium,night,mobile equipment,spotter,E0107,open,,interacción pala-camión
+EV00247,2026-01-24,escondida,operaciones,superintendencia 3,mina rajo,bhp,safety interaction,medium,day,housekeeping,barricade,E0128,closed,2026-01-31,pasillo obstruido
+EV00248,2025-11-14,escondida,operaciones,superintendencia 1,puerto/logística,contrato a,hazard observation,medium,night,traffic,lockout-tagout,E0009,open,,exceso de velocidad en ruta interna
+EV00249,2025-10-01,escondida,supply,superintendencia 3,planta concentradora,bhp,near miss,medium,day,energy isolation,spotter,E0062,closed,2025-10-09,etiquetado incompleto
+EV00250,2025-10-17,spence,mantenimiento,superintendencia 4,planta concentradora,contrato a,safety interaction,medium,day,hand safety,pre-start check,E0072,closed,2025-10-20,uso incorrecto de guantes
+EV00251,2025-10-16,escondida,servicios,superintendencia 3,mantenimiento,contrato c,hazard observation,high,day,energy isolation,permit to work,E0080,open,,candado faltante
+EV00252,2026-01-01,escondida,hss,superintendencia 3,puerto/logística,contrato d,hazard observation,low,night,working at height,pre-start check,E0113,closed,2026-01-04,escalera sin amarre
+EV00253,2025-11-14,escondida,operaciones,superintendencia 4,mina rajo,contrato c,near miss,low,night,traffic,jsa/ast,E0041,closed,2025-11-18,exceso de velocidad en ruta interna
+EV00254,2025-11-02,escondida,mantenimiento,superintendencia 4,mina rajo,contrato b,hazard observation,low,night,housekeeping,spotter,E0032,open,,pasillo obstruido
+EV00255,2025-12-18,escondida,mantenimiento,superintendencia 3,planta concentradora,bhp,incident,low,day,mobile equipment,isolation,E0106,closed,2025-12-22,falla en alarma de retroceso
+EV00256,2025-10-28,escondida,mantenimiento,superintendencia 1,mina rajo,contrato b,hazard observation,high,night,energy isolation,jsa/ast,E0128,closed,2025-12-01,etiquetado incompleto
+EV00257,2026-01-27,escondida,servicios,superintendencia 4,planta concentradora,contrato a,incident,low,day,mobile equipment,jsa/ast,E0018,open,,falla en alarma de retroceso
+EV00258,2025-10-02,escondida,operaciones,superintendencia 4,mantenimiento,bhp,near miss,low,night,traffic,permit to work,E0039,open,,cruce sin señalización
+EV00259,2026-01-23,escondida,mantenimiento,superintendencia 3,transporte,contrato c,safety interaction,high,night,hand safety,permit to work,E0099,open,,herramienta sin guarda
+EV00260,2025-12-13,spence,hss,superintendencia 3,transporte,contrato a,incident,low,day,housekeeping,isolation,E0093,closed,2025-12-16,derrame de material
+EV00261,2025-11-14,escondida,servicios,superintendencia 3,planta concentradora,bhp,near miss,medium,day,housekeeping,lockout-tagout,E0009,closed,2025-11-22,derrame de material
+EV00262,2025-11-22,escondida,mantenimiento,superintendencia 3,chancado,contrato a,hazard observation,low,day,working at height,ppe,E0073,closed,2025-11-24,plataforma sin baranda
+EV00263,2026-01-05,escondida,hss,superintendencia 1,planta concentradora,contrato c,hazard observation,low,night,working at height,isolation,E0029,closed,2026-01-06,escalera sin amarre
+EV00264,2025-12-15,escondida,operaciones,superintendencia 1,puerto/logística,contrato c,high potential,low,night,mobile equipment,lockout-tagout,E0035,closed,2025-12-17,manejo defensivo deficiente
+EV00265,2025-11-24,escondida,hss,superintendencia 4,transporte,bhp,near miss,low,day,traffic,isolation,E0133,closed,2025-12-01,cruce sin señalización
+EV00266,2025-11-08,escondida,hss,superintendencia 2,planta concentradora,contrato b,hazard observation,medium,night,energy isolation,barricade,E0005,closed,2025-11-10,candado faltante
+EV00267,2026-01-21,escondida,servicios,superintendencia 3,mina rajo,contrato a,near miss,medium,day,energy isolation,isolation,E0012,closed,2026-01-29,aislamiento no verificado
+EV00268,2025-12-14,escondida,servicios,superintendencia 4,mina rajo,contrato b,hazard observation,high,day,hand safety,lockout-tagout,E0022,closed,2026-01-05,uso incorrecto de guantes
+EV00269,2026-01-12,spence,servicios,superintendencia 2,chancado,contrato c,near miss,low,day,energy isolation,barricade,E0050,closed,2026-01-16,aislamiento no verificado
+EV00270,2025-10-07,escondida,mantenimiento,superintendencia 4,transporte,bhp,incident,low,day,mobile equipment,jsa/ast,E0008,closed,2025-10-11,interacción pala-camión
+EV00271,2025-10-18,spence,operaciones,superintendencia 1,puerto/logística,bhp,near miss,high,night,energy isolation,lockout-tagout,E0125,open,,aislamiento no verificado
+EV00272,2025-11-12,cerro colorado,operaciones,superintendencia 3,planta concentradora,bhp,hazard observation,medium,day,working at height,lockout-tagout,E0113,open,,línea de vida no instalada
+EV00273,2026-01-10,escondida,servicios,superintendencia 2,transporte,bhp,safety interaction,medium,day,traffic,lockout-tagout,E0037,open,,cruce sin señalización
+EV00274,2025-11-28,cerro colorado,operaciones,superintendencia 2,mantenimiento,contrato c,incident,low,day,traffic,ppe,E0010,open,,cruce sin señalización
+EV00275,2025-11-19,escondida,servicios,superintendencia 1,puerto/logística,bhp,hazard observation,high,night,traffic,barricade,E0106,open,,exceso de velocidad en ruta interna
+EV00276,2025-11-01,escondida,mantenimiento,superintendencia 1,chancado,contrato b,incident,low,day,housekeeping,pre-start check,E0028,closed,2025-11-12,cables en zona de tránsito
+EV00277,2025-11-29,spence,supply,superintendencia 1,campamento,bhp,hazard observation,medium,day,housekeeping,isolation,E0014,open,,cables en zona de tránsito
+EV00278,2026-01-08,escondida,operaciones,superintendencia 1,mina rajo,contrato a,hazard observation,low,day,confined space,ppe,E0032,open,,monitoreo de gases pendiente
+EV00279,2025-10-21,escondida,operaciones,superintendencia 1,planta concentradora,contrato a,hazard observation,medium,night,mobile equipment,ppe,E0026,closed,2025-10-25,interacción pala-camión
+EV00280,2025-10-03,escondida,hss,superintendencia 2,mina rajo,bhp,near miss,low,day,mobile equipment,barricade,E0030,closed,2025-10-04,falla en alarma de retroceso
+EV00281,2025-12-17,escondida,mantenimiento,superintendencia 4,mantenimiento,contrato d,incident,medium,day,traffic,isolation,E0006,closed,2025-12-18,cruce sin señalización
+EV00282,2025-12-02,spence,hss,superintendencia 4,planta concentradora,contrato c,hazard observation,medium,day,working at height,permit to work,E0065,open,,escalera sin amarre
+EV00283,2025-10-18,spence,operaciones,superintendencia 2,planta concentradora,bhp,high potential,medium,night,traffic,pre-start check,E0071,closed,2025-10-26,cruce sin señalización
+EV00284,2025-12-27,escondida,operaciones,superintendencia 3,mantenimiento,contrato d,hazard observation,medium,night,hand safety,isolation,E0137,open,,atrapamiento potencial
+EV00285,2025-10-18,escondida,operaciones,superintendencia 3,campamento,bhp,near miss,critical,day,housekeeping,ppe,E0105,open,,cables en zona de tránsito
+EV00286,2025-12-11,escondida,operaciones,superintendencia 2,puerto/logística,bhp,safety interaction,high,night,lifting,isolation,E0046,open,,señalero no asignado
+EV00287,2026-01-21,escondida,hss,superintendencia 3,transporte,contrato b,hazard observation,low,day,traffic,ppe,E0067,open,,punto ciego sin spotter
+EV00288,2026-01-02,cerro colorado,mantenimiento,superintendencia 1,mantenimiento,contrato a,safety interaction,low,day,mobile equipment,barricade,E0019,open,,manejo defensivo deficiente
+EV00289,2025-11-27,escondida,hss,superintendencia 3,mantenimiento,contrato d,near miss,high,day,energy isolation,permit to work,E0114,open,,aislamiento no verificado
+EV00290,2026-01-21,spence,mantenimiento,superintendencia 3,campamento,contrato c,hazard observation,high,day,confined space,pre-start check,E0086,open,,ventilación insuficiente
+EV00291,2025-10-21,escondida,operaciones,superintendencia 1,campamento,bhp,safety interaction,medium,night,working at height,permit to work,E0124,closed,2025-11-23,línea de vida no instalada
+EV00292,2025-12-30,spence,operaciones,superintendencia 1,planta concentradora,contrato a,hazard observation,low,day,confined space,permit to work,E0091,open,,ventilación insuficiente
+EV00293,2025-12-06,escondida,operaciones,superintendencia 3,planta concentradora,bhp,hazard observation,medium,night,hand safety,permit to work,E0074,closed,2025-12-13,uso incorrecto de guantes
+EV00294,2026-01-05,cerro colorado,mantenimiento,superintendencia 2,planta concentradora,contrato b,incident,low,night,working at height,barricade,E0013,open,,línea de vida no instalada
+EV00295,2025-11-01,escondida,operaciones,superintendencia 1,campamento,bhp,near miss,low,day,lifting,jsa/ast,E0031,closed,2025-11-03,plan de izaje incompleto
+EV00296,2025-10-22,escondida,operaciones,superintendencia 4,planta concentradora,bhp,hazard observation,low,day,working at height,pre-start check,E0015,closed,2025-11-02,línea de vida no instalada
+EV00297,2025-12-22,escondida,operaciones,superintendencia 4,chancado,bhp,incident,medium,day,mobile equipment,pre-start check,E0055,closed,2026-01-07,interacción pala-camión
+EV00298,2025-11-19,escondida,supply,superintendencia 4,mina rajo,contrato b,hazard observation,high,night,mobile equipment,spotter,E0093,closed,2025-12-09,interacción pala-camión
+EV00299,2025-10-27,escondida,mantenimiento,superintendencia 2,puerto/logística,bhp,near miss,high,night,traffic,barricade,E0138,open,,punto ciego sin spotter
+EV00300,2025-10-15,escondida,mantenimiento,superintendencia 3,chancado,bhp,safety interaction,high,night,confined space,pre-start check,E0047,open,,monitoreo de gases pendiente
+EV00301,2026-01-02,escondida,supply,superintendencia 1,mantenimiento,bhp,incident,low,night,confined space,spotter,E0081,closed,2026-01-04,monitoreo de gases pendiente
+EV00302,2025-11-14,escondida,operaciones,superintendencia 2,planta concentradora,bhp,incident,low,day,housekeeping,lockout-tagout,E0055,closed,2025-11-18,cables en zona de tránsito
+EV00303,2025-11-01,cerro colorado,mantenimiento,superintendencia 3,planta concentradora,contrato d,near miss,low,night,energy isolation,jsa/ast,E0046,closed,2025-11-02,etiquetado incompleto
+EV00304,2025-11-27,escondida,mantenimiento,superintendencia 2,transporte,bhp,safety interaction,low,night,housekeeping,lockout-tagout,E0099,closed,2025-11-28,derrame de material
+EV00305,2025-12-14,escondida,operaciones,superintendencia 4,mantenimiento,bhp,hazard observation,medium,day,hand safety,barricade,E0043,closed,2025-12-30,atrapamiento potencial
+EV00306,2025-11-14,escondida,servicios,superintendencia 4,planta concentradora,bhp,near miss,low,day,traffic,jsa/ast,E0025,closed,2025-11-19,cruce sin señalización
+EV00307,2026-01-16,escondida,supply,superintendencia 3,transporte,bhp,safety interaction,low,day,mobile equipment,jsa/ast,E0077,open,,falla en alarma de retroceso
+EV00308,2025-12-12,escondida,operaciones,superintendencia 2,chancado,bhp,near miss,medium,day,housekeeping,ppe,E0112,open,,derrame de material
+EV00309,2025-11-06,escondida,operaciones,superintendencia 3,mina rajo,contrato a,hazard observation,high,day,confined space,barricade,E0121,closed,2025-11-09,permiso vencido
+EV00310,2026-01-04,escondida,operaciones,superintendencia 4,transporte,bhp,safety interaction,high,night,lifting,pre-start check,E0060,closed,2026-01-12,plan de izaje incompleto
+EV00311,2025-12-07,escondida,mantenimiento,superintendencia 4,puerto/logística,contrato d,incident,low,night,energy isolation,lockout-tagout,E0094,closed,2025-12-17,candado faltante
+EV00312,2026-01-22,cerro colorado,servicios,superintendencia 1,mantenimiento,bhp,hazard observation,low,day,mobile equipment,lockout-tagout,E0086,closed,2026-01-24,falla en alarma de retroceso
+EV00313,2025-12-09,escondida,hss,superintendencia 3,mina rajo,bhp,near miss,low,night,mobile equipment,pre-start check,E0030,closed,2025-12-10,falla en alarma de retroceso
+EV00314,2025-11-15,spence,mantenimiento,superintendencia 2,campamento,contrato b,high potential,low,night,energy isolation,spotter,E0042,closed,2025-11-20,candado faltante
+EV00315,2025-12-08,escondida,servicios,superintendencia 1,campamento,bhp,hazard observation,medium,night,working at height,isolation,E0002,closed,2026-01-12,línea de vida no instalada
+EV00316,2025-12-18,escondida,operaciones,superintendencia 2,mina rajo,bhp,safety interaction,critical,day,mobile equipment,isolation,E0051,closed,2025-12-28,interacción pala-camión
+EV00317,2026-01-02,escondida,operaciones,superintendencia 3,planta concentradora,bhp,near miss,low,day,mobile equipment,permit to work,E0068,closed,2026-01-03,interacción pala-camión
+EV00318,2025-12-17,escondida,supply,superintendencia 2,planta concentradora,contrato c,safety interaction,low,day,working at height,barricade,E0040,open,,plataforma sin baranda
+EV00319,2026-01-11,escondida,operaciones,superintendencia 3,mina rajo,contrato c,safety interaction,low,day,working at height,lockout-tagout,E0120,closed,2026-01-12,línea de vida no instalada
+EV00320,2025-12-15,escondida,mantenimiento,superintendencia 4,campamento,bhp,hazard observation,medium,day,traffic,ppe,E0067,closed,2025-12-24,punto ciego sin spotter
+EV00321,2025-12-19,escondida,hss,superintendencia 1,mantenimiento,bhp,hazard observation,medium,day,traffic,lockout-tagout,E0050,open,,cruce sin señalización
+EV00322,2025-10-27,escondida,mantenimiento,superintendencia 3,mina rajo,bhp,hazard observation,medium,day,traffic,spotter,E0102,closed,2025-11-08,exceso de velocidad en ruta interna
+EV00323,2025-10-03,escondida,hss,superintendencia 3,mina rajo,bhp,hazard observation,medium,day,hand safety,ppe,E0119,open,,atrapamiento potencial
+EV00324,2026-01-16,escondida,mantenimiento,superintendencia 3,planta concentradora,contrato b,near miss,low,day,traffic,jsa/ast,E0112,closed,2026-01-24,exceso de velocidad en ruta interna
+EV00325,2026-01-25,escondida,mantenimiento,superintendencia 4,transporte,bhp,near miss,medium,night,energy isolation,lockout-tagout,E0081,closed,2026-02-08,aislamiento no verificado
+EV00326,2025-10-25,escondida,operaciones,superintendencia 3,transporte,bhp,incident,high,day,mobile equipment,barricade,E0077,closed,2025-11-16,falla en alarma de retroceso
+EV00327,2025-11-28,escondida,hss,superintendencia 4,transporte,bhp,hazard observation,medium,night,traffic,barricade,E0074,open,,punto ciego sin spotter
+EV00328,2025-10-26,escondida,operaciones,superintendencia 2,planta concentradora,contrato c,near miss,low,day,energy isolation,jsa/ast,E0087,closed,2025-10-27,etiquetado incompleto
+EV00329,2026-01-03,escondida,supply,superintendencia 1,mina rajo,bhp,incident,high,night,energy isolation,ppe,E0048,open,,aislamiento no verificado
+EV00330,2025-11-25,spence,operaciones,superintendencia 2,transporte,contrato b,hazard observation,low,night,mobile equipment,pre-start check,E0064,closed,2025-11-30,interacción pala-camión
+EV00331,2025-11-15,escondida,supply,superintendencia 2,chancado,contrato d,near miss,low,night,confined space,ppe,E0108,closed,2025-11-22,permiso vencido
+EV00332,2025-10-05,spence,mantenimiento,superintendencia 1,campamento,contrato b,hazard observation,low,day,hand safety,ppe,E0082,closed,2025-10-06,uso incorrecto de guantes
+EV00333,2025-11-19,cerro colorado,mantenimiento,superintendencia 4,mina rajo,bhp,hazard observation,low,night,lifting,ppe,E0014,closed,2025-11-26,señalero no asignado
+EV00334,2026-01-19,escondida,operaciones,superintendencia 3,planta concentradora,bhp,safety interaction,low,day,energy isolation,barricade,E0089,open,,candado faltante
+EV00335,2025-11-17,spence,operaciones,superintendencia 1,campamento,contrato c,safety interaction,critical,night,lifting,lockout-tagout,E0055,closed,2025-11-26,señalero no asignado
+EV00336,2025-10-14,escondida,operaciones,superintendencia 3,mina rajo,contrato c,incident,low,day,housekeeping,lockout-tagout,E0014,closed,2025-10-17,derrame de material
+EV00337,2025-10-07,spence,operaciones,superintendencia 4,mantenimiento,contrato d,hazard observation,medium,night,lifting,pre-start check,E0080,open,,señalero no asignado
+EV00338,2025-11-08,spence,operaciones,superintendencia 1,mantenimiento,bhp,hazard observation,high,night,working at height,pre-start check,E0139,open,,escalera sin amarre
+EV00339,2025-10-05,cerro colorado,servicios,superintendencia 1,mantenimiento,bhp,near miss,low,day,hand safety,permit to work,E0135,closed,2025-10-17,uso incorrecto de guantes
+EV00340,2025-11-12,spence,operaciones,superintendencia 2,transporte,contrato c,near miss,low,day,hand safety,jsa/ast,E0041,closed,2025-11-15,uso incorrecto de guantes
+EV00341,2025-11-06,escondida,operaciones,superintendencia 3,planta concentradora,bhp,hazard observation,medium,day,housekeeping,barricade,E0037,closed,2025-11-17,cables en zona de tránsito
+EV00342,2025-12-14,cerro colorado,mantenimiento,superintendencia 2,puerto/logística,bhp,incident,medium,night,hand safety,pre-start check,E0014,closed,2026-02-27,atrapamiento potencial
+EV00343,2025-11-13,escondida,mantenimiento,superintendencia 2,planta concentradora,bhp,incident,medium,day,traffic,barricade,E0109,closed,2025-11-15,cruce sin señalización
+EV00344,2026-01-05,escondida,operaciones,superintendencia 4,mina rajo,bhp,near miss,low,night,confined space,permit to work,E0061,closed,2026-01-10,monitoreo de gases pendiente
+EV00345,2025-10-25,escondida,operaciones,superintendencia 2,chancado,contrato c,hazard observation,medium,night,traffic,ppe,E0070,open,,exceso de velocidad en ruta interna
+EV00346,2025-11-30,cerro colorado,supply,superintendencia 4,planta concentradora,contrato c,incident,high,day,lifting,pre-start check,E0118,open,,eslinga con desgaste
+EV00347,2026-01-27,escondida,operaciones,superintendencia 2,puerto/logística,contrato d,hazard observation,high,day,lifting,spotter,E0042,open,,señalero no asignado
+EV00348,2025-11-03,escondida,operaciones,superintendencia 3,planta concentradora,bhp,hazard observation,low,night,traffic,lockout-tagout,E0122,open,,exceso de velocidad en ruta interna
+EV00349,2025-12-02,escondida,mantenimiento,superintendencia 2,planta concentradora,bhp,hazard observation,low,day,mobile equipment,isolation,E0091,closed,2025-12-04,falla en alarma de retroceso
+EV00350,2025-10-22,escondida,hss,superintendencia 4,mina rajo,contrato a,near miss,high,day,mobile equipment,lockout-tagout,E0091,closed,2025-10-25,falla en alarma de retroceso
+EV00351,2025-10-04,escondida,operaciones,superintendencia 4,puerto/logística,contrato a,hazard observation,medium,night,mobile equipment,permit to work,E0094,open,,falla en alarma de retroceso
+EV00352,2025-10-23,spence,mantenimiento,superintendencia 2,transporte,bhp,incident,medium,day,working at height,isolation,E0035,closed,2025-10-31,línea de vida no instalada
+EV00353,2025-12-25,escondida,mantenimiento,superintendencia 3,transporte,bhp,incident,low,day,hand safety,lockout-tagout,E0030,closed,2025-12-27,uso incorrecto de guantes
+EV00354,2025-12-27,escondida,mantenimiento,superintendencia 3,mantenimiento,bhp,safety interaction,low,night,traffic,barricade,E0071,closed,2025-12-29,exceso de velocidad en ruta interna
+EV00355,2026-01-19,escondida,supply,superintendencia 4,chancado,bhp,hazard observation,low,night,mobile equipment,ppe,E0057,open,,interacción pala-camión
+EV00356,2026-01-05,escondida,supply,superintendencia 1,planta concentradora,contrato d,near miss,high,day,hand safety,jsa/ast,E0050,open,,atrapamiento potencial
+EV00357,2026-01-17,spence,operaciones,superintendencia 1,campamento,contrato a,safety interaction,low,day,energy isolation,isolation,E0015,closed,2026-01-22,candado faltante
+EV00358,2025-10-16,escondida,hss,superintendencia 2,planta concentradora,bhp,hazard observation,low,day,traffic,ppe,E0093,open,,cruce sin señalización
+EV00359,2025-11-05,cerro colorado,operaciones,superintendencia 3,chancado,bhp,near miss,low,night,hand safety,permit to work,E0047,open,,atrapamiento potencial
+EV00360,2025-11-02,spence,mantenimiento,superintendencia 4,mantenimiento,bhp,safety interaction,low,day,traffic,barricade,E0116,open,,exceso de velocidad en ruta interna
+EV00361,2025-10-12,spence,operaciones,superintendencia 4,mantenimiento,bhp,hazard observation,low,night,housekeeping,lockout-tagout,E0045,closed,2025-10-14,cables en zona de tránsito
+EV00362,2025-10-17,escondida,operaciones,superintendencia 1,transporte,contrato c,hazard observation,medium,day,energy isolation,jsa/ast,E0086,open,,etiquetado incompleto
+EV00363,2026-01-24,cerro colorado,mantenimiento,superintendencia 3,puerto/logística,contrato c,hazard observation,critical,day,traffic,barricade,E0084,open,,exceso de velocidad en ruta interna
+EV00364,2025-11-22,escondida,servicios,superintendencia 3,mantenimiento,bhp,incident,medium,day,hand safety,isolation,E0126,closed,2025-12-04,atrapamiento potencial
+EV00365,2025-10-18,escondida,mantenimiento,superintendencia 3,transporte,contrato a,hazard observation,high,day,traffic,isolation,E0097,closed,2025-10-26,exceso de velocidad en ruta interna
+EV00366,2025-12-31,spence,operaciones,superintendencia 3,mantenimiento,bhp,hazard observation,low,day,confined space,spotter,E0055,closed,2026-01-07,permiso vencido
+EV00367,2025-10-15,escondida,operaciones,superintendencia 4,mina rajo,contrato b,safety interaction,medium,day,traffic,pre-start check,E0103,open,,punto ciego sin spotter
+EV00368,2025-12-12,cerro colorado,operaciones,superintendencia 2,chancado,contrato c,hazard observation,medium,night,traffic,permit to work,E0091,closed,2025-12-30,punto ciego sin spotter
+EV00369,2026-01-12,spence,operaciones,superintendencia 1,campamento,bhp,hazard observation,low,night,hand safety,ppe,E0119,closed,2026-01-14,herramienta sin guarda
+EV00370,2025-12-29,escondida,hss,superintendencia 3,transporte,contrato c,near miss,high,night,traffic,permit to work,E0129,open,,exceso de velocidad en ruta interna
+EV00371,2025-10-06,escondida,supply,superintendencia 4,planta concentradora,contrato c,hazard observation,low,day,mobile equipment,spotter,E0017,closed,2025-10-16,falla en alarma de retroceso
+EV00372,2025-10-14,escondida,supply,superintendencia 2,mantenimiento,bhp,incident,high,night,traffic,ppe,E0119,closed,2025-10-15,exceso de velocidad en ruta interna
+EV00373,2025-11-09,spence,supply,superintendencia 2,puerto/logística,bhp,hazard observation,low,night,hand safety,lockout-tagout,E0121,closed,2025-11-12,uso incorrecto de guantes
+EV00374,2026-01-06,cerro colorado,operaciones,superintendencia 4,mantenimiento,contrato b,near miss,low,night,energy isolation,isolation,E0036,open,,etiquetado incompleto
+EV00375,2025-11-10,escondida,operaciones,superintendencia 2,puerto/logística,bhp,hazard observation,low,day,energy isolation,pre-start check,E0093,closed,2025-11-16,etiquetado incompleto
+EV00376,2025-12-31,cerro colorado,mantenimiento,superintendencia 2,mantenimiento,bhp,near miss,low,night,working at height,isolation,E0108,closed,2026-01-02,línea de vida no instalada
+EV00377,2025-10-13,escondida,mantenimiento,superintendencia 1,planta concentradora,contrato b,hazard observation,low,day,mobile equipment,ppe,E0001,closed,2025-10-15,manejo defensivo deficiente
+EV00378,2025-10-11,escondida,supply,superintendencia 3,chancado,contrato c,safety interaction,medium,day,traffic,permit to work,E0004,closed,2025-10-22,punto ciego sin spotter
+EV00379,2025-12-23,escondida,servicios,superintendencia 1,planta concentradora,bhp,hazard observation,medium,night,hand safety,jsa/ast,E0104,closed,2025-12-24,herramienta sin guarda
+EV00380,2025-11-24,escondida,hss,superintendencia 4,mantenimiento,bhp,safety interaction,low,day,energy isolation,barricade,E0007,closed,2025-11-25,candado faltante
+EV00381,2025-12-10,cerro colorado,mantenimiento,superintendencia 2,mantenimiento,bhp,hazard observation,low,night,energy isolation,permit to work,E0042,closed,2025-12-11,candado faltante
+EV00382,2025-12-17,escondida,hss,superintendencia 1,planta concentradora,bhp,near miss,medium,day,lifting,barricade,E0015,closed,2026-01-01,eslinga con desgaste
+EV00383,2026-01-07,escondida,hss,superintendencia 2,mina rajo,contrato c,hazard observation,medium,night,housekeeping,jsa/ast,E0086,open,,pasillo obstruido
+EV00384,2026-01-24,spence,mantenimiento,superintendencia 1,mina rajo,bhp,near miss,high,day,working at height,isolation,E0067,closed,2026-02-14,línea de vida no instalada
+EV00385,2025-10-06,spence,operaciones,superintendencia 1,transporte,bhp,hazard observation,medium,night,working at height,permit to work,E0045,open,,escalera sin amarre
+EV00386,2025-11-10,escondida,operaciones,superintendencia 4,puerto/logística,contrato d,near miss,medium,night,traffic,permit to work,E0015,closed,2025-11-26,exceso de velocidad en ruta interna
+EV00387,2025-10-16,escondida,operaciones,superintendencia 2,mina rajo,bhp,hazard observation,medium,day,traffic,isolation,E0062,closed,2025-11-06,exceso de velocidad en ruta interna
+EV00388,2025-11-03,escondida,operaciones,superintendencia 2,mina rajo,bhp,near miss,low,day,working at height,pre-start check,E0057,closed,2025-11-10,línea de vida no instalada
+EV00389,2026-01-01,escondida,operaciones,superintendencia 2,transporte,bhp,hazard observation,low,day,traffic,jsa/ast,E0129,closed,2026-01-07,punto ciego sin spotter
+EV00390,2026-01-01,escondida,mantenimiento,superintendencia 4,planta concentradora,contrato a,hazard observation,low,day,hand safety,permit to work,E0037,closed,2026-01-11,atrapamiento potencial
+EV00391,2025-12-25,escondida,hss,superintendencia 2,planta concentradora,contrato a,high potential,low,night,confined space,isolation,E0083,open,,permiso vencido
+EV00392,2025-10-05,escondida,hss,superintendencia 3,mantenimiento,bhp,safety interaction,low,night,mobile equipment,lockout-tagout,E0113,open,,interacción pala-camión
+EV00393,2025-11-17,escondida,hss,superintendencia 2,planta concentradora,contrato a,hazard observation,high,night,mobile equipment,jsa/ast,E0024,open,,falla en alarma de retroceso
+EV00394,2025-10-31,escondida,servicios,superintendencia 1,planta concentradora,contrato c,high potential,low,night,traffic,lockout-tagout,E0137,open,,cruce sin señalización
+EV00395,2026-01-25,escondida,hss,superintendencia 2,planta concentradora,bhp,near miss,medium,day,working at height,permit to work,E0129,closed,2026-02-01,línea de vida no instalada
+EV00396,2025-12-28,escondida,operaciones,superintendencia 3,transporte,bhp,safety interaction,medium,night,housekeeping,ppe,E0131,closed,2026-01-05,cables en zona de tránsito
+EV00397,2025-12-20,escondida,operaciones,superintendencia 1,mina rajo,contrato c,near miss,medium,day,lifting,pre-start check,E0079,closed,2025-12-22,plan de izaje incompleto
+EV00398,2025-12-24,escondida,hss,superintendencia 2,transporte,contrato c,high potential,low,night,working at height,pre-start check,E0005,closed,2025-12-30,escalera sin amarre
+EV00399,2026-01-25,escondida,operaciones,superintendencia 4,mina rajo,contrato d,near miss,medium,night,confined space,ppe,E0088,closed,2026-01-29,ventilación insuficiente
+EV00400,2026-01-10,escondida,hss,superintendencia 2,transporte,bhp,hazard observation,low,day,traffic,pre-start check,E0108,closed,2026-01-12,exceso de velocidad en ruta interna
+EV00401,2025-10-25,escondida,operaciones,superintendencia 2,planta concentradora,contrato b,hazard observation,low,night,working at height,barricade,E0045,closed,2025-10-29,línea de vida no instalada
+EV00402,2025-10-16,escondida,hss,superintendencia 3,planta concentradora,bhp,hazard observation,low,day,hand safety,spotter,E0006,open,,uso incorrecto de guantes
+EV00403,2025-12-19,escondida,operaciones,superintendencia 3,mina rajo,bhp,hazard observation,low,day,traffic,ppe,E0006,open,,punto ciego sin spotter
+EV00404,2025-12-05,escondida,operaciones,superintendencia 2,mantenimiento,contrato b,safety interaction,low,day,traffic,pre-start check,E0032,closed,2025-12-06,cruce sin señalización
+EV00405,2025-10-27,escondida,servicios,superintendencia 1,chancado,bhp,hazard observation,low,day,lifting,pre-start check,E0004,open,,eslinga con desgaste
+EV00406,2025-11-16,escondida,operaciones,superintendencia 4,puerto/logística,bhp,near miss,low,day,traffic,spotter,E0069,closed,2025-11-20,exceso de velocidad en ruta interna
+EV00407,2025-10-17,spence,supply,superintendencia 1,chancado,contrato a,near miss,medium,day,housekeeping,lockout-tagout,E0100,open,,derrame de material
+EV00408,2026-01-13,spence,operaciones,superintendencia 4,planta concentradora,contrato d,incident,low,night,traffic,isolation,E0024,open,,cruce sin señalización
+EV00409,2025-11-23,escondida,operaciones,superintendencia 4,planta concentradora,bhp,safety interaction,medium,night,mobile equipment,lockout-tagout,E0030,closed,2025-12-11,manejo defensivo deficiente
+EV00410,2026-01-21,escondida,operaciones,superintendencia 4,mantenimiento,bhp,hazard observation,medium,day,energy isolation,isolation,E0095,open,,candado faltante
+EV00411,2025-12-15,escondida,mantenimiento,superintendencia 2,puerto/logística,bhp,safety interaction,low,day,hand safety,pre-start check,E0057,closed,2025-12-24,uso incorrecto de guantes
+EV00412,2025-10-10,escondida,operaciones,superintendencia 4,puerto/logística,bhp,hazard observation,low,night,mobile equipment,pre-start check,E0015,closed,2025-10-15,interacción pala-camión
+EV00413,2026-01-03,escondida,operaciones,superintendencia 4,campamento,contrato b,near miss,medium,day,mobile equipment,permit to work,E0048,closed,2026-01-07,manejo defensivo deficiente
+EV00414,2025-12-12,spence,hss,superintendencia 2,chancado,contrato a,incident,low,day,traffic,isolation,E0035,open,,exceso de velocidad en ruta interna
+EV00415,2025-12-28,escondida,mantenimiento,superintendencia 2,transporte,contrato b,safety interaction,low,day,confined space,lockout-tagout,E0115,closed,2026-01-04,monitoreo de gases pendiente
+EV00416,2025-12-14,cerro colorado,mantenimiento,superintendencia 1,campamento,bhp,near miss,medium,night,housekeeping,permit to work,E0069,closed,2025-12-17,derrame de material
+EV00417,2025-10-03,escondida,mantenimiento,superintendencia 1,campamento,contrato a,hazard observation,low,night,lifting,ppe,E0047,closed,2025-10-12,eslinga con desgaste
+EV00418,2025-11-23,escondida,mantenimiento,superintendencia 2,mantenimiento,bhp,hazard observation,low,night,mobile equipment,permit to work,E0075,closed,2025-11-29,falla en alarma de retroceso
+EV00419,2025-10-28,escondida,supply,superintendencia 2,puerto/logística,contrato d,hazard observation,high,day,hand safety,barricade,E0074,open,,atrapamiento potencial
+EV00420,2025-12-28,escondida,mantenimiento,superintendencia 4,puerto/logística,contrato a,incident,low,night,lifting,lockout-tagout,E0051,open,,eslinga con desgaste
+EV00421,2025-10-23,escondida,servicios,superintendencia 2,transporte,bhp,hazard observation,low,day,lifting,pre-start check,E0119,closed,2025-11-03,señalero no asignado
+EV00422,2025-10-31,escondida,mantenimiento,superintendencia 3,chancado,bhp,hazard observation,medium,night,hand safety,permit to work,E0135,closed,2025-12-08,atrapamiento potencial
+EV00423,2025-12-09,escondida,supply,superintendencia 2,planta concentradora,contrato b,hazard observation,medium,day,confined space,isolation,E0068,closed,2025-12-11,ventilación insuficiente
+EV00424,2025-11-15,escondida,operaciones,superintendencia 2,planta concentradora,bhp,safety interaction,high,day,traffic,permit to work,E0033,closed,2025-11-30,punto ciego sin spotter
+EV00425,2025-12-20,spence,servicios,superintendencia 4,mina rajo,contrato c,hazard observation,medium,night,working at height,isolation,E0040,open,,escalera sin amarre
+EV00426,2025-11-17,escondida,operaciones,superintendencia 4,campamento,bhp,hazard observation,low,day,working at height,lockout-tagout,E0138,closed,2025-11-21,línea de vida no instalada
+EV00427,2025-10-25,escondida,servicios,superintendencia 1,chancado,contrato d,incident,low,night,traffic,isolation,E0138,open,,exceso de velocidad en ruta interna
+EV00428,2025-11-18,escondida,operaciones,superintendencia 2,transporte,contrato d,hazard observation,low,day,confined space,permit to work,E0079,closed,2025-12-05,permiso vencido
+EV00429,2025-12-01,escondida,servicios,superintendencia 1,transporte,contrato c,incident,low,day,mobile equipment,spotter,E0023,open,,manejo defensivo deficiente
+EV00430,2025-12-09,escondida,operaciones,superintendencia 4,mina rajo,bhp,hazard observation,high,day,traffic,barricade,E0030,open,,exceso de velocidad en ruta interna
+EV00431,2025-12-08,spence,mantenimiento,superintendencia 1,chancado,contrato d,hazard observation,low,night,lifting,jsa/ast,E0058,closed,2025-12-24,plan de izaje incompleto
+EV00432,2026-01-17,escondida,servicios,superintendencia 4,mantenimiento,contrato b,near miss,medium,night,working at height,jsa/ast,E0105,open,,línea de vida no instalada
+EV00433,2026-01-02,escondida,mantenimiento,superintendencia 2,mantenimiento,contrato d,near miss,low,night,hand safety,jsa/ast,E0003,open,,atrapamiento potencial
+EV00434,2025-11-19,escondida,operaciones,superintendencia 2,chancado,bhp,hazard observation,low,night,traffic,ppe,E0037,closed,2025-11-23,punto ciego sin spotter
+EV00435,2025-10-24,escondida,operaciones,superintendencia 4,planta concentradora,bhp,hazard observation,medium,day,mobile equipment,isolation,E0074,open,,interacción pala-camión
+EV00436,2026-01-28,spence,mantenimiento,superintendencia 2,mina rajo,bhp,safety interaction,low,night,mobile equipment,pre-start check,E0046,open,,falla en alarma de retroceso
+EV00437,2025-12-25,escondida,operaciones,superintendencia 1,chancado,bhp,near miss,medium,day,mobile equipment,ppe,E0098,closed,2026-01-08,interacción pala-camión
+EV00438,2025-11-27,escondida,servicios,superintendencia 4,mantenimiento,bhp,near miss,high,day,traffic,spotter,E0052,open,,cruce sin señalización
+EV00439,2025-12-06,escondida,operaciones,superintendencia 2,transporte,contrato a,hazard observation,low,day,confined space,isolation,E0005,closed,2025-12-13,ventilación insuficiente
+EV00440,2026-01-11,escondida,mantenimiento,superintendencia 3,mantenimiento,contrato d,hazard observation,medium,day,confined space,jsa/ast,E0078,open,,monitoreo de gases pendiente
+EV00441,2025-11-03,spence,operaciones,superintendencia 2,planta concentradora,contrato c,hazard observation,low,day,traffic,isolation,E0050,closed,2025-11-06,punto ciego sin spotter
+EV00442,2025-10-03,escondida,servicios,superintendencia 4,planta concentradora,bhp,near miss,low,night,housekeeping,isolation,E0140,open,,cables en zona de tránsito
+EV00443,2025-10-06,escondida,servicios,superintendencia 1,mantenimiento,bhp,near miss,low,night,hand safety,lockout-tagout,E0075,closed,2025-10-08,atrapamiento potencial
+EV00444,2025-11-08,escondida,mantenimiento,superintendencia 3,planta concentradora,bhp,hazard observation,medium,day,confined space,lockout-tagout,E0088,closed,2025-11-11,permiso vencido
+EV00445,2025-11-26,escondida,servicios,superintendencia 3,mina rajo,contrato b,hazard observation,low,night,working at height,ppe,E0112,closed,2025-11-30,escalera sin amarre
+EV00446,2025-12-19,escondida,mantenimiento,superintendencia 2,transporte,bhp,near miss,low,night,mobile equipment,spotter,E0045,closed,2025-12-26,manejo defensivo deficiente
+EV00447,2025-11-17,escondida,operaciones,superintendencia 4,mantenimiento,bhp,safety interaction,low,night,working at height,jsa/ast,E0012,closed,2025-11-26,línea de vida no instalada
+EV00448,2025-10-12,cerro colorado,hss,superintendencia 2,mina rajo,bhp,safety interaction,medium,night,lifting,jsa/ast,E0132,open,,plan de izaje incompleto
+EV00449,2026-01-21,escondida,supply,superintendencia 3,puerto/logística,contrato d,near miss,high,day,traffic,permit to work,E0093,open,,exceso de velocidad en ruta interna
+EV00450,2025-12-14,spence,operaciones,superintendencia 3,chancado,contrato d,incident,low,day,mobile equipment,isolation,E0040,closed,2025-12-22,falla en alarma de retroceso
+EV00451,2025-11-12,escondida,servicios,superintendencia 2,chancado,bhp,near miss,critical,night,hand safety,spotter,E0078,closed,2025-12-07,atrapamiento potencial
+EV00452,2025-11-24,escondida,operaciones,superintendencia 4,mina rajo,bhp,near miss,low,night,traffic,isolation,E0059,closed,2025-11-26,exceso de velocidad en ruta interna
+EV00453,2025-10-17,escondida,operaciones,superintendencia 4,planta concentradora,contrato a,near miss,low,day,hand safety,pre-start check,E0009,open,,atrapamiento potencial
+EV00454,2025-12-20,spence,mantenimiento,superintendencia 4,mantenimiento,bhp,safety interaction,low,day,working at height,jsa/ast,E0042,closed,2025-12-24,línea de vida no instalada
+EV00455,2025-10-27,escondida,hss,superintendencia 3,puerto/logística,contrato a,incident,high,day,energy isolation,pre-start check,E0130,closed,2025-10-28,candado faltante
+EV00456,2025-12-29,escondida,hss,superintendencia 3,mina rajo,contrato a,incident,medium,day,lifting,pre-start check,E0029,closed,2026-01-17,señalero no asignado
+EV00457,2025-11-01,escondida,operaciones,superintendencia 2,transporte,bhp,hazard observation,medium,day,energy isolation,lockout-tagout,E0124,open,,candado faltante
+EV00458,2025-10-31,escondida,supply,superintendencia 2,planta concentradora,bhp,hazard observation,low,night,traffic,isolation,E0106,open,,cruce sin señalización
+EV00459,2025-10-05,spence,mantenimiento,superintendencia 2,transporte,bhp,near miss,low,day,hand safety,barricade,E0083,open,,atrapamiento potencial
+EV00460,2025-11-18,escondida,operaciones,superintendencia 3,puerto/logística,contrato d,hazard observation,high,night,confined space,lockout-tagout,E0127,open,,ventilación insuficiente
+EV00461,2025-11-27,spence,mantenimiento,superintendencia 1,mantenimiento,contrato d,near miss,low,night,lifting,jsa/ast,E0027,open,,plan de izaje incompleto
+EV00462,2025-12-30,escondida,mantenimiento,superintendencia 4,mantenimiento,contrato c,near miss,low,day,hand safety,spotter,E0012,closed,2025-12-31,herramienta sin guarda
+EV00463,2026-01-15,spence,operaciones,superintendencia 1,transporte,contrato c,incident,low,day,energy isolation,spotter,E0014,closed,2026-01-18,etiquetado incompleto
+EV00464,2026-01-01,escondida,servicios,superintendencia 4,mina rajo,contrato d,near miss,critical,day,lifting,permit to work,E0123,closed,2026-01-05,plan de izaje incompleto
+EV00465,2026-01-19,escondida,hss,superintendencia 1,mantenimiento,bhp,safety interaction,medium,night,working at height,permit to work,E0068,open,,línea de vida no instalada
+EV00466,2025-10-02,spence,hss,superintendencia 3,campamento,contrato a,hazard observation,high,night,mobile equipment,lockout-tagout,E0133,open,,manejo defensivo deficiente
+EV00467,2026-01-14,cerro colorado,mantenimiento,superintendencia 3,planta concentradora,contrato d,hazard observation,low,day,hand safety,permit to work,E0001,open,,uso incorrecto de guantes
+EV00468,2026-01-22,spence,hss,superintendencia 3,transporte,bhp,hazard observation,low,day,traffic,isolation,E0118,closed,2026-01-23,punto ciego sin spotter
+EV00469,2026-01-26,spence,servicios,superintendencia 1,chancado,bhp,incident,high,day,mobile equipment,spotter,E0025,open,,interacción pala-camión
+EV00470,2025-10-01,spence,servicios,superintendencia 3,mantenimiento,contrato d,hazard observation,low,night,energy isolation,permit to work,E0115,open,,etiquetado incompleto
+EV00471,2025-12-19,spence,operaciones,superintendencia 3,mantenimiento,contrato c,hazard observation,medium,night,mobile equipment,spotter,E0002,closed,2026-01-21,manejo defensivo deficiente
+EV00472,2025-12-27,escondida,supply,superintendencia 4,transporte,contrato c,near miss,low,day,lifting,permit to work,E0042,closed,2026-01-15,eslinga con desgaste
+EV00473,2025-12-07,escondida,operaciones,superintendencia 4,transporte,bhp,hazard observation,medium,night,lifting,lockout-tagout,E0030,closed,2025-12-21,eslinga con desgaste
+EV00474,2025-10-16,escondida,mantenimiento,superintendencia 4,planta concentradora,contrato b,safety interaction,medium,night,mobile equipment,jsa/ast,E0018,open,,manejo defensivo deficiente
+EV00475,2025-11-02,escondida,operaciones,superintendencia 4,mina rajo,bhp,hazard observation,high,night,lifting,jsa/ast,E0023,closed,2025-11-03,eslinga con desgaste
+EV00476,2025-12-25,escondida,servicios,superintendencia 3,mantenimiento,bhp,hazard observation,low,night,traffic,jsa/ast,E0049,open,,cruce sin señalización
+EV00477,2025-10-15,escondida,servicios,superintendencia 3,mina rajo,bhp,hazard observation,medium,night,hand safety,permit to work,E0079,closed,2025-10-16,uso incorrecto de guantes
+EV00478,2025-12-13,escondida,mantenimiento,superintendencia 4,mina rajo,bhp,incident,medium,day,housekeeping,permit to work,E0045,closed,2026-01-09,pasillo obstruido
+EV00479,2025-12-05,escondida,operaciones,superintendencia 1,campamento,bhp,near miss,medium,night,hand safety,jsa/ast,E0006,closed,2025-12-24,uso incorrecto de guantes
+EV00480,2026-01-19,cerro colorado,hss,superintendencia 1,transporte,bhp,high potential,low,day,lifting,lockout-tagout,E0111,closed,2026-01-25,plan de izaje incompleto
+EV00481,2025-12-22,escondida,operaciones,superintendencia 1,mina rajo,contrato a,hazard observation,critical,day,energy isolation,jsa/ast,E0044,open,,candado faltante
+EV00482,2025-11-01,cerro colorado,mantenimiento,superintendencia 4,mantenimiento,bhp,hazard observation,critical,night,mobile equipment,lockout-tagout,E0131,open,,interacción pala-camión
+EV00483,2025-10-04,escondida,operaciones,superintendencia 3,transporte,contrato b,incident,low,night,lifting,jsa/ast,E0137,closed,2025-10-07,eslinga con desgaste
+EV00484,2025-11-24,escondida,mantenimiento,superintendencia 1,planta concentradora,bhp,incident,high,day,mobile equipment,pre-start check,E0110,closed,2025-11-26,interacción pala-camión
+EV00485,2025-12-17,escondida,operaciones,superintendencia 4,planta concentradora,contrato a,hazard observation,low,day,working at height,permit to work,E0041,open,,escalera sin amarre
+EV00486,2025-11-29,cerro colorado,hss,superintendencia 2,campamento,contrato a,safety interaction,low,day,working at height,pre-start check,E0071,closed,2025-11-30,plataforma sin baranda
+EV00487,2025-11-18,escondida,mantenimiento,superintendencia 4,transporte,bhp,safety interaction,low,day,hand safety,pre-start check,E0078,closed,2025-11-20,uso incorrecto de guantes
+EV00488,2025-12-15,escondida,operaciones,superintendencia 3,transporte,contrato a,near miss,low,night,hand safety,isolation,E0003,closed,2025-12-30,herramienta sin guarda
+EV00489,2025-12-09,spence,mantenimiento,superintendencia 4,planta concentradora,contrato a,near miss,medium,day,traffic,ppe,E0126,closed,2025-12-19,cruce sin señalización
+EV00490,2025-11-24,escondida,operaciones,superintendencia 1,campamento,contrato b,hazard observation,medium,day,traffic,ppe,E0073,closed,2025-11-26,punto ciego sin spotter
+EV00491,2025-10-05,escondida,supply,superintendencia 3,planta concentradora,bhp,hazard observation,low,night,working at height,permit to work,E0045,closed,2025-10-10,escalera sin amarre
+EV00492,2025-10-19,spence,hss,superintendencia 2,planta concentradora,contrato d,hazard observation,medium,day,traffic,lockout-tagout,E0073,closed,2025-11-11,punto ciego sin spotter
+EV00493,2025-11-18,escondida,operaciones,superintendencia 1,puerto/logística,bhp,hazard observation,medium,night,working at height,pre-start check,E0007,closed,2025-12-13,plataforma sin baranda
+EV00494,2025-10-17,spence,operaciones,superintendencia 3,mina rajo,bhp,hazard observation,medium,day,housekeeping,jsa/ast,E0065,closed,2025-10-18,derrame de material
+EV00495,2026-01-26,escondida,operaciones,superintendencia 1,chancado,bhp,incident,high,day,lifting,pre-start check,E0035,open,,eslinga con desgaste
+EV00496,2025-11-16,spence,operaciones,superintendencia 2,mantenimiento,contrato c,hazard observation,medium,day,housekeeping,lockout-tagout,E0090,closed,2025-11-20,pasillo obstruido
+EV00497,2025-12-07,escondida,mantenimiento,superintendencia 2,planta concentradora,bhp,high potential,low,night,mobile equipment,spotter,E0090,closed,2025-12-15,interacción pala-camión
+EV00498,2025-12-28,escondida,servicios,superintendencia 1,chancado,bhp,hazard observation,low,day,housekeeping,pre-start check,E0121,open,,derrame de material
+EV00499,2026-01-23,cerro colorado,operaciones,superintendencia 3,mina rajo,bhp,near miss,medium,day,housekeeping,isolation,E0118,closed,2026-02-05,cables en zona de tránsito
+EV00500,2025-12-21,escondida,operaciones,superintendencia 2,transporte,bhp,safety interaction,medium,day,traffic,jsa/ast,E0027,closed,2025-12-30,punto ciego sin spotter
+EV00501,2025-12-03,escondida,operaciones,superintendencia 4,puerto/logística,bhp,safety interaction,low,day,mobile equipment,lockout-tagout,E0046,closed,2025-12-07,interacción pala-camión
+EV00502,2026-01-25,escondida,mantenimiento,superintendencia 2,mina rajo,contrato d,incident,high,day,traffic,barricade,E0033,closed,2026-03-01,cruce sin señalización
+EV00503,2026-01-27,escondida,supply,superintendencia 3,chancado,bhp,hazard observation,high,day,mobile equipment,permit to work,E0119,open,,interacción pala-camión
+EV00504,2025-12-17,spence,operaciones,superintendencia 3,planta concentradora,bhp,hazard observation,high,day,lifting,barricade,E0130,open,,eslinga con desgaste
+EV00505,2025-11-23,escondida,servicios,superintendencia 1,mantenimiento,bhp,hazard observation,medium,day,traffic,jsa/ast,E0034,open,,punto ciego sin spotter
+EV00506,2025-11-19,spence,operaciones,superintendencia 2,mina rajo,bhp,incident,low,day,confined space,permit to work,E0133,open,,permiso vencido
+EV00507,2025-10-09,escondida,operaciones,superintendencia 2,planta concentradora,bhp,hazard observation,low,night,lifting,ppe,E0105,closed,2025-10-25,plan de izaje incompleto
+EV00508,2025-12-14,spence,operaciones,superintendencia 4,mantenimiento,contrato b,hazard observation,low,night,confined space,isolation,E0054,closed,2025-12-19,ventilación insuficiente
+EV00509,2025-10-05,escondida,hss,superintendencia 2,transporte,contrato d,near miss,medium,day,lifting,jsa/ast,E0014,open,,eslinga con desgaste
+EV00510,2026-01-23,escondida,operaciones,superintendencia 2,mantenimiento,contrato a,hazard observation,low,day,energy isolation,isolation,E0113,closed,2026-02-05,candado faltante
+EV00511,2026-01-11,escondida,mantenimiento,superintendencia 2,planta concentradora,contrato a,hazard observation,low,day,hand safety,spotter,E0120,closed,2026-01-19,herramienta sin guarda
+EV00512,2025-12-13,escondida,servicios,superintendencia 2,planta concentradora,bhp,safety interaction,high,night,lifting,isolation,E0060,open,,eslinga con desgaste
+EV00513,2025-10-27,spence,servicios,superintendencia 1,campamento,bhp,safety interaction,medium,night,hand safety,barricade,E0109,open,,herramienta sin guarda
+EV00514,2026-01-27,escondida,mantenimiento,superintendencia 4,transporte,contrato b,incident,medium,day,traffic,barricade,E0108,closed,2026-03-01,exceso de velocidad en ruta interna
+EV00515,2026-01-07,escondida,hss,superintendencia 1,puerto/logística,contrato a,hazard observation,low,night,mobile equipment,permit to work,E0133,closed,2026-01-10,manejo defensivo deficiente
+EV00516,2025-10-17,cerro colorado,operaciones,superintendencia 1,transporte,bhp,hazard observation,medium,night,energy isolation,barricade,E0115,closed,2025-10-18,candado faltante
+EV00517,2025-11-25,escondida,servicios,superintendencia 2,planta concentradora,contrato c,near miss,low,day,working at height,permit to work,E0076,closed,2025-12-01,escalera sin amarre
+EV00518,2025-10-06,spence,mantenimiento,superintendencia 2,planta concentradora,bhp,incident,medium,day,confined space,spotter,E0104,closed,2025-10-08,ventilación insuficiente
+EV00519,2025-10-10,cerro colorado,operaciones,superintendencia 1,planta concentradora,bhp,incident,low,night,housekeeping,ppe,E0098,closed,2025-10-21,pasillo obstruido
+EV00520,2026-01-09,spence,supply,superintendencia 4,planta concentradora,bhp,near miss,low,night,hand safety,spotter,E0001,open,,herramienta sin guarda
+EV00521,2026-01-17,spence,operaciones,superintendencia 3,chancado,bhp,hazard observation,low,day,housekeeping,spotter,E0072,closed,2026-01-25,pasillo obstruido
+EV00522,2025-11-29,escondida,operaciones,superintendencia 1,transporte,contrato a,hazard observation,medium,night,mobile equipment,jsa/ast,E0050,open,,interacción pala-camión
+EV00523,2025-10-31,escondida,servicios,superintendencia 4,mantenimiento,bhp,high potential,low,night,mobile equipment,pre-start check,E0077,open,,falla en alarma de retroceso
+EV00524,2025-10-09,escondida,servicios,superintendencia 3,planta concentradora,bhp,hazard observation,low,night,mobile equipment,jsa/ast,E0090,closed,2025-10-18,falla en alarma de retroceso
+EV00525,2025-10-24,escondida,supply,superintendencia 2,chancado,contrato a,incident,critical,day,energy isolation,isolation,E0045,closed,2025-10-25,candado faltante
+EV00526,2025-11-19,escondida,mantenimiento,superintendencia 4,chancado,contrato c,near miss,low,night,mobile equipment,pre-start check,E0037,closed,2025-11-21,interacción pala-camión
+EV00527,2025-10-21,escondida,operaciones,superintendencia 3,transporte,contrato c,incident,critical,day,mobile equipment,jsa/ast,E0040,open,,falla en alarma de retroceso
+EV00528,2025-11-11,escondida,operaciones,superintendencia 2,mina rajo,bhp,hazard observation,low,day,energy isolation,ppe,E0104,closed,2025-11-14,etiquetado incompleto
+EV00529,2026-01-05,spence,operaciones,superintendencia 4,planta concentradora,contrato c,incident,medium,day,traffic,isolation,E0066,closed,2026-01-06,punto ciego sin spotter
+EV00530,2025-11-20,escondida,operaciones,superintendencia 4,campamento,bhp,hazard observation,low,night,lifting,spotter,E0082,closed,2025-11-21,eslinga con desgaste
+EV00531,2025-10-11,escondida,hss,superintendencia 3,transporte,bhp,safety interaction,high,day,traffic,barricade,E0087,open,,exceso de velocidad en ruta interna
+EV00532,2025-11-11,escondida,hss,superintendencia 1,chancado,bhp,safety interaction,low,night,traffic,pre-start check,E0116,closed,2025-11-16,exceso de velocidad en ruta interna
+EV00533,2025-12-06,escondida,servicios,superintendencia 1,planta concentradora,contrato b,safety interaction,low,day,hand safety,spotter,E0139,closed,2025-12-15,atrapamiento potencial
+EV00534,2025-10-27,escondida,operaciones,superintendencia 2,mantenimiento,bhp,hazard observation,medium,night,confined space,barricade,E0061,closed,2025-10-30,permiso vencido
+EV00535,2025-12-06,escondida,hss,superintendencia 2,transporte,bhp,incident,low,night,confined space,jsa/ast,E0123,closed,2025-12-09,ventilación insuficiente
+EV00536,2025-11-20,escondida,operaciones,superintendencia 3,campamento,bhp,safety interaction,medium,night,energy isolation,permit to work,E0116,open,,candado faltante
+EV00537,2026-01-16,escondida,mantenimiento,superintendencia 1,transporte,contrato b,high potential,medium,day,housekeeping,barricade,E0087,open,,pasillo obstruido
+EV00538,2025-10-01,spence,operaciones,superintendencia 1,campamento,contrato a,hazard observation,low,day,housekeeping,pre-start check,E0060,open,,pasillo obstruido
+EV00539,2025-10-17,escondida,mantenimiento,superintendencia 4,mantenimiento,contrato a,near miss,medium,day,confined space,ppe,E0111,open,,permiso vencido
+EV00540,2025-12-02,escondida,hss,superintendencia 4,chancado,contrato d,safety interaction,low,day,working at height,pre-start check,E0006,open,,escalera sin amarre
+EV00541,2025-11-18,escondida,mantenimiento,superintendencia 3,planta concentradora,contrato d,safety interaction,low,night,traffic,permit to work,E0121,open,,exceso de velocidad en ruta interna
+EV00542,2025-10-20,escondida,operaciones,superintendencia 4,mina rajo,contrato d,hazard observation,medium,day,mobile equipment,lockout-tagout,E0045,closed,2025-11-16,interacción pala-camión
+EV00543,2026-01-01,escondida,supply,superintendencia 1,transporte,bhp,near miss,high,day,traffic,pre-start check,E0085,open,,punto ciego sin spotter
+EV00544,2025-12-19,escondida,operaciones,superintendencia 1,mina rajo,contrato a,safety interaction,low,day,traffic,ppe,E0129,closed,2025-12-20,cruce sin señalización
+EV00545,2025-11-05,escondida,operaciones,superintendencia 3,planta concentradora,contrato d,hazard observation,low,night,working at height,pre-start check,E0019,open,,plataforma sin baranda
+EV00546,2025-10-04,escondida,operaciones,superintendencia 3,transporte,contrato d,safety interaction,low,day,energy isolation,barricade,E0095,closed,2025-10-11,candado faltante
+EV00547,2025-11-24,escondida,hss,superintendencia 4,mina rajo,bhp,incident,low,night,energy isolation,permit to work,E0020,closed,2025-11-28,aislamiento no verificado
+EV00548,2026-01-27,cerro colorado,mantenimiento,superintendencia 2,transporte,contrato d,incident,medium,day,housekeeping,lockout-tagout,E0065,closed,2026-01-30,pasillo obstruido
+EV00549,2025-11-24,escondida,servicios,superintendencia 1,mantenimiento,contrato c,hazard observation,medium,day,mobile equipment,lockout-tagout,E0088,closed,2025-12-04,interacción pala-camión
+EV00550,2025-12-21,escondida,operaciones,superintendencia 2,campamento,bhp,hazard observation,medium,day,working at height,permit to work,E0002,open,,línea de vida no instalada
+EV00551,2025-11-01,escondida,operaciones,superintendencia 4,mina rajo,bhp,hazard observation,low,day,hand safety,ppe,E0028,open,,atrapamiento potencial
+EV00552,2025-11-22,escondida,supply,superintendencia 3,chancado,bhp,high potential,high,night,lifting,permit to work,E0083,closed,2025-11-30,plan de izaje incompleto
+EV00553,2025-10-14,spence,operaciones,superintendencia 1,planta concentradora,bhp,incident,low,night,traffic,pre-start check,E0033,open,,cruce sin señalización
+EV00554,2026-01-20,escondida,mantenimiento,superintendencia 4,transporte,bhp,hazard observation,high,day,hand safety,spotter,E0025,open,,herramienta sin guarda
+EV00555,2025-12-17,cerro colorado,operaciones,superintendencia 2,mantenimiento,contrato a,safety interaction,low,day,confined space,jsa/ast,E0129,open,,ventilación insuficiente
+EV00556,2025-10-18,escondida,servicios,superintendencia 2,mantenimiento,bhp,safety interaction,low,day,mobile equipment,permit to work,E0119,closed,2025-10-19,falla en alarma de retroceso
+EV00557,2025-10-09,cerro colorado,mantenimiento,superintendencia 4,campamento,bhp,hazard observation,low,day,housekeeping,permit to work,E0052,open,,pasillo obstruido
+EV00558,2025-11-24,escondida,operaciones,superintendencia 2,puerto/logística,bhp,hazard observation,medium,day,working at height,pre-start check,E0129,open,,línea de vida no instalada
+EV00559,2026-01-14,escondida,mantenimiento,superintendencia 1,mina rajo,bhp,high potential,critical,night,traffic,pre-start check,E0005,closed,2026-01-21,punto ciego sin spotter
+EV00560,2025-10-19,spence,operaciones,superintendencia 1,transporte,bhp,safety interaction,medium,day,housekeeping,lockout-tagout,E0006,closed,2025-10-29,pasillo obstruido
+EV00561,2026-01-04,escondida,operaciones,superintendencia 1,mina rajo,contrato c,safety interaction,low,day,mobile equipment,lockout-tagout,E0024,closed,2026-01-05,interacción pala-camión
+EV00562,2026-01-11,escondida,servicios,superintendencia 2,mina rajo,bhp,hazard observation,medium,day,traffic,jsa/ast,E0043,open,,punto ciego sin spotter
+EV00563,2025-11-10,spence,supply,superintendencia 1,puerto/logística,bhp,hazard observation,low,night,energy isolation,barricade,E0089,closed,2025-11-22,etiquetado incompleto
+EV00564,2026-01-02,escondida,servicios,superintendencia 2,chancado,contrato b,near miss,medium,day,lifting,lockout-tagout,E0060,closed,2026-01-05,plan de izaje incompleto
+EV00565,2025-12-14,escondida,operaciones,superintendencia 2,mina rajo,bhp,near miss,low,day,energy isolation,isolation,E0125,closed,2025-12-16,candado faltante
+EV00566,2025-10-27,spence,hss,superintendencia 1,planta concentradora,bhp,safety interaction,high,day,working at height,jsa/ast,E0102,open,,línea de vida no instalada
+EV00567,2025-12-21,escondida,servicios,superintendencia 4,planta concentradora,contrato d,hazard observation,low,day,mobile equipment,spotter,E0056,closed,2026-01-04,falla en alarma de retroceso
+EV00568,2025-12-08,escondida,supply,superintendencia 3,mina rajo,contrato a,safety interaction,medium,night,mobile equipment,ppe,E0034,closed,2025-12-17,interacción pala-camión
+EV00569,2025-11-08,escondida,mantenimiento,superintendencia 3,planta concentradora,bhp,hazard observation,low,day,working at height,pre-start check,E0035,closed,2025-11-19,escalera sin amarre
+EV00570,2025-10-02,escondida,operaciones,superintendencia 3,mina rajo,contrato b,near miss,low,day,hand safety,lockout-tagout,E0053,closed,2025-10-06,uso incorrecto de guantes
+EV00571,2026-01-08,spence,mantenimiento,superintendencia 1,planta concentradora,bhp,hazard observation,medium,day,housekeeping,jsa/ast,E0136,open,,derrame de material
+EV00572,2026-01-04,escondida,mantenimiento,superintendencia 3,planta concentradora,bhp,safety interaction,low,day,working at height,jsa/ast,E0072,closed,2026-01-08,línea de vida no instalada
+EV00573,2026-01-16,escondida,mantenimiento,superintendencia 2,mantenimiento,bhp,hazard observation,low,day,mobile equipment,spotter,E0039,closed,2026-01-26,falla en alarma de retroceso
+EV00574,2026-01-14,escondida,hss,superintendencia 2,planta concentradora,bhp,high potential,low,day,energy isolation,lockout-tagout,E0090,closed,2026-01-15,aislamiento no verificado
+EV00575,2026-01-23,spence,operaciones,superintendencia 2,mantenimiento,bhp,incident,low,night,housekeeping,isolation,E0027,open,,pasillo obstruido
+EV00576,2025-12-15,escondida,mantenimiento,superintendencia 3,mantenimiento,bhp,safety interaction,medium,day,hand safety,permit to work,E0138,open,,herramienta sin guarda
+EV00577,2025-11-09,spence,operaciones,superintendencia 3,puerto/logística,contrato b,hazard observation,medium,day,working at height,lockout-tagout,E0057,closed,2025-11-24,plataforma sin baranda
+EV00578,2025-10-31,spence,operaciones,superintendencia 3,chancado,contrato b,high potential,critical,night,working at height,lockout-tagout,E0012,open,,escalera sin amarre
+EV00579,2026-01-04,escondida,mantenimiento,superintendencia 2,chancado,bhp,hazard observation,low,day,mobile equipment,permit to work,E0113,closed,2026-01-06,manejo defensivo deficiente
+EV00580,2026-01-24,cerro colorado,operaciones,superintendencia 3,chancado,bhp,hazard observation,low,day,hand safety,spotter,E0039,open,,uso incorrecto de guantes
+EV00581,2025-10-07,spence,operaciones,superintendencia 1,mina rajo,bhp,high potential,high,day,energy isolation,permit to work,E0113,closed,2025-10-24,aislamiento no verificado
+EV00582,2025-12-30,escondida,mantenimiento,superintendencia 2,puerto/logística,bhp,hazard observation,high,day,housekeeping,isolation,E0079,closed,2026-02-07,pasillo obstruido
+EV00583,2025-11-12,escondida,operaciones,superintendencia 3,chancado,bhp,near miss,low,day,mobile equipment,isolation,E0054,closed,2025-11-14,manejo defensivo deficiente
+EV00584,2026-01-03,spence,operaciones,superintendencia 3,planta concentradora,contrato c,hazard observation,high,day,confined space,lockout-tagout,E0021,open,,ventilación insuficiente
+EV00585,2026-01-04,escondida,supply,superintendencia 2,campamento,bhp,hazard observation,high,day,hand safety,permit to work,E0058,closed,2026-02-07,uso incorrecto de guantes
+EV00586,2026-01-16,escondida,operaciones,superintendencia 2,planta concentradora,bhp,near miss,high,night,housekeeping,barricade,E0065,closed,2026-01-25,cables en zona de tránsito
+EV00587,2025-11-26,escondida,operaciones,superintendencia 4,mina rajo,bhp,hazard observation,low,night,energy isolation,spotter,E0014,closed,2025-11-27,etiquetado incompleto
+EV00588,2025-10-24,cerro colorado,operaciones,superintendencia 4,planta concentradora,bhp,safety interaction,high,day,working at height,ppe,E0116,closed,2025-11-13,línea de vida no instalada
+EV00589,2025-12-22,escondida,mantenimiento,superintendencia 2,chancado,bhp,hazard observation,critical,day,housekeeping,isolation,E0017,open,,derrame de material
+EV00590,2025-10-09,escondida,operaciones,superintendencia 1,puerto/logística,bhp,hazard observation,low,day,energy isolation,pre-start check,E0026,closed,2025-10-13,aislamiento no verificado
+EV00591,2025-12-01,escondida,operaciones,superintendencia 1,transporte,bhp,safety interaction,high,day,energy isolation,isolation,E0031,open,,etiquetado incompleto
+EV00592,2025-12-16,escondida,operaciones,superintendencia 1,planta concentradora,contrato d,incident,low,night,traffic,lockout-tagout,E0063,open,,punto ciego sin spotter
+EV00593,2025-10-09,escondida,hss,superintendencia 1,planta concentradora,contrato a,near miss,high,day,mobile equipment,permit to work,E0068,closed,2025-10-13,falla en alarma de retroceso
+EV00594,2025-11-15,escondida,operaciones,superintendencia 3,campamento,contrato c,near miss,medium,day,housekeeping,jsa/ast,E0130,closed,2025-11-20,cables en zona de tránsito
+EV00595,2026-01-05,escondida,operaciones,superintendencia 1,planta concentradora,bhp,hazard observation,low,night,housekeeping,pre-start check,E0122,closed,2026-01-13,derrame de material
+EV00596,2025-12-14,escondida,mantenimiento,superintendencia 1,mina rajo,bhp,hazard observation,medium,night,traffic,permit to work,E0014,open,,punto ciego sin spotter
+EV00597,2025-10-24,spence,operaciones,superintendencia 2,mantenimiento,bhp,near miss,low,day,confined space,lockout-tagout,E0024,closed,2025-10-25,ventilación insuficiente
+EV00598,2025-12-17,escondida,operaciones,superintendencia 2,planta concentradora,bhp,safety interaction,low,day,mobile equipment,spotter,E0096,open,,interacción pala-camión
+EV00599,2026-01-23,escondida,mantenimiento,superintendencia 1,mantenimiento,contrato c,safety interaction,low,day,traffic,permit to work,E0097,open,,exceso de velocidad en ruta interna
+EV00600,2025-12-06,escondida,mantenimiento,superintendencia 1,planta concentradora,bhp,near miss,high,day,traffic,lockout-tagout,E0125,open,,punto ciego sin spotter
+EV00601,2025-12-13,spence,operaciones,superintendencia 3,chancado,bhp,near miss,high,day,mobile equipment,pre-start check,E0051,closed,2025-12-22,interacción pala-camión
+EV00602,2026-01-18,escondida,mantenimiento,superintendencia 2,chancado,contrato b,hazard observation,low,night,housekeeping,barricade,E0010,open,,pasillo obstruido
+EV00603,2025-11-18,escondida,mantenimiento,superintendencia 1,campamento,bhp,safety interaction,low,night,working at height,isolation,E0069,open,,escalera sin amarre
+EV00604,2025-11-26,cerro colorado,mantenimiento,superintendencia 2,mina rajo,contrato c,safety interaction,low,day,housekeeping,lockout-tagout,E0027,closed,2025-11-27,cables en zona de tránsito
+EV00605,2025-10-19,escondida,operaciones,superintendencia 2,planta concentradora,contrato c,safety interaction,high,night,working at height,permit to work,E0027,open,,línea de vida no instalada
+EV00606,2025-12-11,spence,operaciones,superintendencia 3,mantenimiento,bhp,hazard observation,medium,day,hand safety,permit to work,E0127,closed,2025-12-13,herramienta sin guarda
+EV00607,2025-11-11,escondida,hss,superintendencia 4,transporte,contrato a,incident,low,day,mobile equipment,spotter,E0124,closed,2025-11-16,manejo defensivo deficiente
+EV00608,2025-12-18,escondida,operaciones,superintendencia 1,planta concentradora,bhp,safety interaction,low,day,lifting,pre-start check,E0013,closed,2025-12-24,señalero no asignado
+EV00609,2025-12-30,cerro colorado,servicios,superintendencia 2,chancado,bhp,hazard observation,medium,day,energy isolation,isolation,E0131,closed,2026-01-06,aislamiento no verificado
+EV00610,2025-10-14,escondida,supply,superintendencia 1,planta concentradora,contrato b,hazard observation,low,day,mobile equipment,pre-start check,E0041,closed,2025-10-27,manejo defensivo deficiente
+EV00611,2026-01-11,spence,servicios,superintendencia 2,mina rajo,contrato a,safety interaction,low,night,housekeeping,ppe,E0066,closed,2026-01-15,derrame de material
+EV00612,2025-12-07,escondida,operaciones,superintendencia 3,mina rajo,bhp,near miss,high,day,energy isolation,permit to work,E0137,closed,2026-01-01,candado faltante
+EV00613,2025-11-13,escondida,operaciones,superintendencia 1,mina rajo,bhp,incident,high,night,working at height,ppe,E0027,open,,línea de vida no instalada
+EV00614,2026-01-02,escondida,mantenimiento,superintendencia 4,planta concentradora,contrato b,hazard observation,low,night,mobile equipment,ppe,E0018,closed,2026-01-03,falla en alarma de retroceso
+EV00615,2025-11-17,cerro colorado,operaciones,superintendencia 4,mantenimiento,bhp,hazard observation,high,day,housekeeping,ppe,E0003,open,,cables en zona de tránsito
+EV00616,2026-01-27,escondida,operaciones,superintendencia 1,mantenimiento,bhp,safety interaction,medium,night,mobile equipment,ppe,E0016,closed,2026-02-04,manejo defensivo deficiente
+EV00617,2026-01-14,escondida,operaciones,superintendencia 3,transporte,contrato c,safety interaction,high,night,housekeeping,permit to work,E0087,open,,derrame de material
+EV00618,2025-11-27,escondida,hss,superintendencia 3,campamento,bhp,near miss,low,day,traffic,permit to work,E0092,closed,2025-12-03,exceso de velocidad en ruta interna
+EV00619,2025-12-21,escondida,operaciones,superintendencia 4,planta concentradora,bhp,safety interaction,medium,night,traffic,permit to work,E0053,open,,cruce sin señalización
+EV00620,2025-10-10,escondida,operaciones,superintendencia 1,planta concentradora,bhp,incident,low,night,mobile equipment,permit to work,E0067,closed,2025-10-19,falla en alarma de retroceso
+EV00621,2025-12-16,escondida,operaciones,superintendencia 4,transporte,bhp,safety interaction,high,day,housekeeping,permit to work,E0090,open,,derrame de material
+EV00622,2025-11-28,spence,mantenimiento,superintendencia 3,planta concentradora,bhp,incident,high,day,housekeeping,isolation,E0072,closed,2025-12-06,cables en zona de tránsito
+EV00623,2025-12-02,escondida,operaciones,superintendencia 2,mantenimiento,bhp,near miss,medium,night,lifting,isolation,E0076,closed,2025-12-20,eslinga con desgaste
+EV00624,2026-01-06,escondida,mantenimiento,superintendencia 3,mina rajo,bhp,safety interaction,high,night,lifting,spotter,E0022,closed,2026-01-13,eslinga con desgaste
+EV00625,2026-01-10,escondida,mantenimiento,superintendencia 4,chancado,contrato b,safety interaction,medium,night,mobile equipment,isolation,E0023,open,,manejo defensivo deficiente
+EV00626,2025-11-25,spence,operaciones,superintendencia 3,campamento,contrato d,high potential,low,night,mobile equipment,ppe,E0096,closed,2025-11-28,manejo defensivo deficiente
+EV00627,2025-10-27,cerro colorado,operaciones,superintendencia 2,campamento,bhp,hazard observation,low,day,energy isolation,permit to work,E0109,closed,2025-11-09,aislamiento no verificado
+EV00628,2025-12-20,escondida,operaciones,superintendencia 1,mantenimiento,bhp,hazard observation,medium,night,confined space,spotter,E0011,open,,permiso vencido
+EV00629,2025-10-16,escondida,mantenimiento,superintendencia 3,mantenimiento,bhp,hazard observation,high,night,traffic,jsa/ast,E0048,closed,2025-10-28,punto ciego sin spotter
+EV00630,2025-10-21,escondida,operaciones,superintendencia 2,transporte,bhp,hazard observation,medium,day,mobile equipment,lockout-tagout,E0082,open,,manejo defensivo deficiente
+EV00631,2025-11-26,spence,hss,superintendencia 1,planta concentradora,bhp,safety interaction,high,day,hand safety,jsa/ast,E0014,open,,herramienta sin guarda
+EV00632,2025-11-13,escondida,operaciones,superintendencia 2,mantenimiento,contrato d,near miss,low,night,working at height,isolation,E0112,closed,2025-11-21,plataforma sin baranda
+EV00633,2025-11-26,escondida,hss,superintendencia 1,mina rajo,bhp,incident,low,day,traffic,lockout-tagout,E0057,open,,cruce sin señalización
+EV00634,2025-10-11,spence,hss,superintendencia 1,planta concentradora,contrato b,high potential,low,night,energy isolation,ppe,E0067,closed,2025-10-12,etiquetado incompleto
+EV00635,2025-12-14,cerro colorado,supply,superintendencia 3,puerto/logística,bhp,hazard observation,medium,night,housekeeping,jsa/ast,E0075,open,,pasillo obstruido
+EV00636,2026-01-12,escondida,servicios,superintendencia 1,mantenimiento,contrato d,hazard observation,medium,day,mobile equipment,barricade,E0058,closed,2026-02-03,interacción pala-camión
+EV00637,2025-12-13,escondida,mantenimiento,superintendencia 4,transporte,contrato b,hazard observation,low,night,mobile equipment,jsa/ast,E0119,closed,2025-12-15,interacción pala-camión
+EV00638,2025-12-18,escondida,operaciones,superintendencia 4,transporte,contrato d,safety interaction,medium,day,mobile equipment,isolation,E0135,open,,falla en alarma de retroceso
+EV00639,2025-11-01,spence,mantenimiento,superintendencia 3,transporte,contrato b,safety interaction,medium,night,working at height,pre-start check,E0132,open,,plataforma sin baranda
+EV00640,2026-01-19,escondida,servicios,superintendencia 4,mina rajo,bhp,hazard observation,low,day,traffic,pre-start check,E0127,open,,cruce sin señalización
+EV00641,2026-01-08,escondida,hss,superintendencia 3,mina rajo,contrato d,hazard observation,low,day,mobile equipment,isolation,E0133,closed,2026-01-22,interacción pala-camión
+EV00642,2025-11-25,escondida,mantenimiento,superintendencia 2,mina rajo,contrato a,hazard observation,critical,day,confined space,isolation,E0029,open,,monitoreo de gases pendiente
+EV00643,2025-12-26,escondida,operaciones,superintendencia 4,mantenimiento,bhp,safety interaction,medium,night,housekeeping,permit to work,E0106,open,,derrame de material
+EV00644,2025-12-22,escondida,operaciones,superintendencia 4,transporte,bhp,high potential,medium,day,hand safety,barricade,E0136,closed,2025-12-23,uso incorrecto de guantes
+EV00645,2025-10-16,escondida,operaciones,superintendencia 1,transporte,bhp,safety interaction,low,night,mobile equipment,pre-start check,E0094,open,,falla en alarma de retroceso
+EV00646,2026-01-24,escondida,operaciones,superintendencia 1,puerto/logística,contrato b,hazard observation,low,day,traffic,ppe,E0092,closed,2026-01-27,exceso de velocidad en ruta interna
+EV00647,2025-10-10,escondida,operaciones,superintendencia 1,chancado,bhp,high potential,high,day,hand safety,ppe,E0135,open,,atrapamiento potencial
+EV00648,2025-12-06,escondida,operaciones,superintendencia 2,mina rajo,bhp,hazard observation,low,day,hand safety,pre-start check,E0023,closed,2025-12-09,uso incorrecto de guantes
+EV00649,2025-11-23,spence,mantenimiento,superintendencia 2,chancado,contrato d,incident,medium,night,working at height,ppe,E0077,closed,2026-01-03,línea de vida no instalada
+EV00650,2026-01-21,escondida,operaciones,superintendencia 1,transporte,bhp,near miss,medium,night,mobile equipment,permit to work,E0067,closed,2026-01-27,falla en alarma de retroceso
+EV00651,2026-01-16,escondida,operaciones,superintendencia 4,chancado,contrato c,hazard observation,high,night,working at height,barricade,E0029,open,,plataforma sin baranda
+EV00652,2025-11-17,escondida,mantenimiento,superintendencia 3,chancado,bhp,near miss,low,day,lifting,permit to work,E0078,closed,2025-11-30,plan de izaje incompleto
+EV00653,2026-01-26,spence,servicios,superintendencia 1,campamento,contrato c,hazard observation,low,day,working at height,jsa/ast,E0083,open,,plataforma sin baranda
+EV00654,2026-01-07,escondida,supply,superintendencia 4,mantenimiento,bhp,near miss,high,day,mobile equipment,pre-start check,E0071,open,,falla en alarma de retroceso
+EV00655,2025-10-31,escondida,operaciones,superintendencia 1,mantenimiento,contrato d,hazard observation,low,day,mobile equipment,spotter,E0066,closed,2025-11-04,manejo defensivo deficiente
+EV00656,2025-10-24,spence,hss,superintendencia 4,planta concentradora,contrato c,hazard observation,high,day,lifting,pre-start check,E0003,open,,eslinga con desgaste
+EV00657,2025-11-27,escondida,operaciones,superintendencia 1,transporte,contrato c,hazard observation,high,night,working at height,pre-start check,E0135,open,,línea de vida no instalada
+EV00658,2025-12-01,spence,operaciones,superintendencia 2,planta concentradora,contrato b,hazard observation,low,day,traffic,permit to work,E0035,closed,2025-12-02,cruce sin señalización
+EV00659,2025-11-22,escondida,operaciones,superintendencia 1,chancado,bhp,safety interaction,low,night,energy isolation,pre-start check,E0139,closed,2025-11-23,aislamiento no verificado
+EV00660,2025-11-25,cerro colorado,operaciones,superintendencia 3,mantenimiento,bhp,high potential,medium,night,hand safety,isolation,E0047,closed,2025-12-03,herramienta sin guarda
+EV00661,2026-01-13,cerro colorado,mantenimiento,superintendencia 1,transporte,bhp,hazard observation,medium,day,traffic,isolation,E0123,closed,2026-01-31,exceso de velocidad en ruta interna
+EV00662,2025-10-10,escondida,operaciones,superintendencia 2,puerto/logística,bhp,near miss,high,day,working at height,permit to work,E0029,open,,plataforma sin baranda
+EV00663,2025-11-28,spence,operaciones,superintendencia 3,campamento,bhp,incident,medium,day,energy isolation,lockout-tagout,E0018,closed,2025-12-05,candado faltante
+EV00664,2025-12-14,escondida,mantenimiento,superintendencia 4,puerto/logística,contrato a,safety interaction,high,day,hand safety,permit to work,E0032,closed,2026-01-14,herramienta sin guarda
+EV00665,2025-10-23,escondida,servicios,superintendencia 1,transporte,contrato a,near miss,low,day,mobile equipment,jsa/ast,E0021,closed,2025-10-27,manejo defensivo deficiente
+EV00666,2025-12-23,escondida,operaciones,superintendencia 1,puerto/logística,contrato a,hazard observation,high,night,energy isolation,lockout-tagout,E0060,open,,etiquetado incompleto
+EV00667,2026-01-13,escondida,servicios,superintendencia 2,planta concentradora,bhp,incident,medium,day,housekeeping,lockout-tagout,E0137,open,,pasillo obstruido
+EV00668,2025-12-16,escondida,operaciones,superintendencia 1,chancado,bhp,safety interaction,high,day,housekeeping,barricade,E0118,open,,cables en zona de tránsito
+EV00669,2025-11-04,cerro colorado,operaciones,superintendencia 1,chancado,contrato b,safety interaction,low,day,energy isolation,pre-start check,E0056,closed,2025-11-09,etiquetado incompleto
+EV00670,2025-10-07,cerro colorado,operaciones,superintendencia 3,chancado,bhp,safety interaction,high,day,traffic,jsa/ast,E0134,closed,2025-10-12,cruce sin señalización
+EV00671,2025-12-22,spence,operaciones,superintendencia 4,mina rajo,bhp,hazard observation,medium,day,energy isolation,pre-start check,E0046,closed,2025-12-23,etiquetado incompleto
+EV00672,2025-12-17,escondida,operaciones,superintendencia 2,planta concentradora,contrato a,near miss,medium,night,working at height,pre-start check,E0002,closed,2025-12-27,escalera sin amarre
+EV00673,2025-11-07,escondida,operaciones,superintendencia 3,campamento,contrato c,hazard observation,low,day,hand safety,barricade,E0059,closed,2025-12-09,atrapamiento potencial
+EV00674,2025-12-12,escondida,mantenimiento,superintendencia 2,campamento,contrato a,near miss,medium,day,traffic,permit to work,E0047,closed,2025-12-16,cruce sin señalización
+EV00675,2025-10-04,escondida,mantenimiento,superintendencia 1,planta concentradora,bhp,incident,low,night,mobile equipment,permit to work,E0018,closed,2025-10-21,interacción pala-camión
+EV00676,2025-10-18,escondida,mantenimiento,superintendencia 3,planta concentradora,bhp,safety interaction,medium,night,energy isolation,barricade,E0010,open,,candado faltante
+EV00677,2026-01-20,escondida,hss,superintendencia 2,planta concentradora,bhp,safety interaction,high,night,mobile equipment,permit to work,E0010,closed,2026-02-04,falla en alarma de retroceso
+EV00678,2025-12-30,escondida,hss,superintendencia 1,mina rajo,bhp,hazard observation,medium,night,mobile equipment,pre-start check,E0133,open,,interacción pala-camión
+EV00679,2026-01-16,escondida,mantenimiento,superintendencia 4,puerto/logística,contrato b,near miss,low,day,lifting,pre-start check,E0101,closed,2026-01-23,eslinga con desgaste
+EV00680,2025-12-14,escondida,hss,superintendencia 4,mina rajo,bhp,near miss,low,day,mobile equipment,jsa/ast,E0116,closed,2025-12-29,interacción pala-camión
+EV00681,2026-01-28,cerro colorado,mantenimiento,superintendencia 1,transporte,bhp,hazard observation,medium,day,hand safety,permit to work,E0035,closed,2026-02-03,atrapamiento potencial
+EV00682,2025-11-14,escondida,operaciones,superintendencia 1,mantenimiento,bhp,safety interaction,medium,day,hand safety,spotter,E0103,open,,atrapamiento potencial
+EV00683,2026-01-05,escondida,supply,superintendencia 3,planta concentradora,bhp,hazard observation,low,night,hand safety,isolation,E0131,closed,2026-01-06,herramienta sin guarda
+EV00684,2025-10-21,spence,servicios,superintendencia 3,planta concentradora,bhp,safety interaction,low,night,mobile equipment,pre-start check,E0047,open,,manejo defensivo deficiente
+EV00685,2025-12-16,escondida,operaciones,superintendencia 4,mantenimiento,bhp,hazard observation,high,day,hand safety,pre-start check,E0135,closed,2026-01-24,atrapamiento potencial
+EV00686,2025-12-02,escondida,mantenimiento,superintendencia 4,planta concentradora,bhp,near miss,medium,night,traffic,permit to work,E0021,closed,2025-12-08,cruce sin señalización
+EV00687,2025-11-08,escondida,operaciones,superintendencia 4,mantenimiento,bhp,near miss,low,night,traffic,lockout-tagout,E0066,open,,punto ciego sin spotter
+EV00688,2025-12-30,escondida,operaciones,superintendencia 4,mantenimiento,bhp,hazard observation,critical,day,housekeeping,spotter,E0102,open,,cables en zona de tránsito
+EV00689,2025-11-22,escondida,hss,superintendencia 2,planta concentradora,contrato a,hazard observation,low,day,energy isolation,isolation,E0006,closed,2025-11-25,candado faltante
+EV00690,2025-10-04,escondida,supply,superintendencia 1,mina rajo,contrato d,hazard observation,high,day,traffic,pre-start check,E0082,open,,cruce sin señalización
+EV00691,2025-10-18,escondida,operaciones,superintendencia 4,planta concentradora,bhp,near miss,critical,day,confined space,lockout-tagout,E0108,closed,2025-11-18,ventilación insuficiente
+EV00692,2025-10-14,escondida,mantenimiento,superintendencia 2,mina rajo,contrato d,near miss,medium,day,traffic,lockout-tagout,E0127,open,,cruce sin señalización
+EV00693,2025-12-19,escondida,operaciones,superintendencia 1,campamento,bhp,high potential,low,night,mobile equipment,pre-start check,E0108,open,,falla en alarma de retroceso
+EV00694,2025-10-14,cerro colorado,mantenimiento,superintendencia 2,mantenimiento,contrato d,safety interaction,low,night,lifting,pre-start check,E0010,open,,señalero no asignado
+EV00695,2026-01-17,escondida,mantenimiento,superintendencia 1,mantenimiento,bhp,high potential,low,day,lifting,barricade,E0066,closed,2026-01-25,eslinga con desgaste
+EV00696,2025-10-13,escondida,operaciones,superintendencia 1,mina rajo,bhp,safety interaction,low,night,energy isolation,pre-start check,E0105,open,,aislamiento no verificado
+EV00697,2025-11-10,escondida,servicios,superintendencia 2,planta concentradora,contrato c,safety interaction,medium,day,confined space,isolation,E0108,closed,2025-11-18,permiso vencido
+EV00698,2026-01-23,spence,operaciones,superintendencia 4,transporte,contrato a,hazard observation,medium,day,housekeeping,barricade,E0112,closed,2026-01-28,derrame de material
+EV00699,2025-10-21,escondida,operaciones,superintendencia 3,mina rajo,contrato b,hazard observation,medium,day,hand safety,isolation,E0080,open,,herramienta sin guarda
+EV00700,2025-11-01,spence,mantenimiento,superintendencia 2,planta concentradora,contrato c,hazard observation,medium,day,mobile equipment,ppe,E0108,closed,2025-11-06,falla en alarma de retroceso
+EV00701,2025-10-05,spence,operaciones,superintendencia 2,mantenimiento,bhp,incident,medium,day,hand safety,lockout-tagout,E0053,closed,2025-10-15,herramienta sin guarda
+EV00702,2025-10-05,escondida,mantenimiento,superintendencia 2,planta concentradora,bhp,hazard observation,medium,night,mobile equipment,lockout-tagout,E0028,closed,2025-10-24,interacción pala-camión
+EV00703,2026-01-27,escondida,operaciones,superintendencia 1,planta concentradora,contrato a,high potential,medium,day,hand safety,pre-start check,E0089,closed,2026-01-29,atrapamiento potencial
+EV00704,2025-10-04,escondida,mantenimiento,superintendencia 1,mina rajo,contrato a,incident,medium,night,housekeeping,ppe,E0039,closed,2025-10-31,derrame de material
+EV00705,2025-11-25,escondida,mantenimiento,superintendencia 1,mina rajo,contrato a,hazard observation,low,night,housekeeping,jsa/ast,E0066,closed,2025-11-30,pasillo obstruido
+EV00706,2025-10-10,spence,operaciones,superintendencia 1,mina rajo,contrato c,hazard observation,medium,day,mobile equipment,spotter,E0040,closed,2025-10-13,manejo defensivo deficiente
+EV00707,2026-01-06,escondida,hss,superintendencia 2,planta concentradora,bhp,hazard observation,critical,night,traffic,permit to work,E0135,open,,punto ciego sin spotter
+EV00708,2025-11-22,escondida,mantenimiento,superintendencia 1,planta concentradora,bhp,incident,low,day,mobile equipment,spotter,E0134,closed,2025-11-26,interacción pala-camión
+EV00709,2025-12-03,escondida,operaciones,superintendencia 1,mantenimiento,bhp,near miss,high,day,housekeeping,pre-start check,E0138,closed,2025-12-08,derrame de material
+EV00710,2025-12-09,spence,supply,superintendencia 4,mantenimiento,bhp,safety interaction,low,night,traffic,jsa/ast,E0015,open,,punto ciego sin spotter
+EV00711,2026-01-17,escondida,operaciones,superintendencia 1,mantenimiento,contrato b,hazard observation,medium,night,energy isolation,barricade,E0095,open,,candado faltante
+EV00712,2026-01-04,escondida,servicios,superintendencia 3,chancado,contrato b,hazard observation,medium,day,energy isolation,ppe,E0129,open,,candado faltante
+EV00713,2025-10-04,spence,operaciones,superintendencia 4,mina rajo,contrato a,safety interaction,low,day,hand safety,pre-start check,E0008,closed,2025-10-09,atrapamiento potencial
+EV00714,2025-11-11,escondida,mantenimiento,superintendencia 2,mina rajo,bhp,hazard observation,high,day,energy isolation,permit to work,E0071,open,,aislamiento no verificado
+EV00715,2025-12-07,escondida,hss,superintendencia 3,mina rajo,contrato d,hazard observation,high,day,traffic,barricade,E0127,open,,cruce sin señalización
+EV00716,2025-10-07,escondida,mantenimiento,superintendencia 3,chancado,bhp,near miss,low,day,energy isolation,jsa/ast,E0073,open,,etiquetado incompleto
+EV00717,2025-11-27,escondida,operaciones,superintendencia 2,mantenimiento,contrato d,hazard observation,low,day,lifting,spotter,E0136,closed,2025-11-28,eslinga con desgaste
+EV00718,2025-10-17,escondida,operaciones,superintendencia 4,planta concentradora,bhp,hazard observation,low,night,hand safety,isolation,E0108,closed,2025-10-19,herramienta sin guarda
+EV00719,2026-01-22,escondida,mantenimiento,superintendencia 1,planta concentradora,contrato c,hazard observation,low,night,traffic,isolation,E0076,closed,2026-01-24,cruce sin señalización
+EV00720,2025-10-20,escondida,supply,superintendencia 3,mina rajo,bhp,safety interaction,critical,night,energy isolation,pre-start check,E0057,open,,etiquetado incompleto
+EV00721,2025-12-27,escondida,supply,superintendencia 4,mina rajo,contrato a,near miss,high,day,confined space,ppe,E0025,open,,ventilación insuficiente
+EV00722,2025-10-30,escondida,servicios,superintendencia 3,transporte,contrato b,safety interaction,high,night,hand safety,jsa/ast,E0047,open,,atrapamiento potencial
+EV00723,2025-11-16,escondida,hss,superintendencia 2,mina rajo,contrato d,hazard observation,high,day,energy isolation,barricade,E0087,open,,etiquetado incompleto
+EV00724,2025-10-30,spence,mantenimiento,superintendencia 4,planta concentradora,contrato b,hazard observation,low,day,housekeeping,lockout-tagout,E0086,closed,2025-11-04,cables en zona de tránsito
+EV00725,2025-12-13,spence,mantenimiento,superintendencia 4,mina rajo,bhp,safety interaction,medium,day,hand safety,jsa/ast,E0009,open,,herramienta sin guarda
+EV00726,2025-12-25,escondida,supply,superintendencia 2,chancado,contrato d,safety interaction,medium,night,lifting,isolation,E0050,open,,señalero no asignado
+EV00727,2025-10-11,spence,operaciones,superintendencia 4,transporte,bhp,high potential,high,night,lifting,lockout-tagout,E0061,open,,señalero no asignado
+EV00728,2025-12-15,cerro colorado,hss,superintendencia 4,planta concentradora,contrato a,safety interaction,medium,day,housekeeping,ppe,E0095,open,,pasillo obstruido
+EV00729,2026-01-22,escondida,operaciones,superintendencia 2,transporte,bhp,incident,medium,night,confined space,jsa/ast,E0125,open,,ventilación insuficiente
+EV00730,2025-10-03,escondida,servicios,superintendencia 3,transporte,contrato c,hazard observation,high,day,working at height,barricade,E0047,closed,2025-10-12,línea de vida no instalada
+EV00731,2025-11-22,spence,mantenimiento,superintendencia 3,mantenimiento,contrato d,hazard observation,high,night,traffic,spotter,E0032,open,,punto ciego sin spotter
+EV00732,2025-10-26,escondida,mantenimiento,superintendencia 2,chancado,contrato d,safety interaction,medium,day,mobile equipment,barricade,E0084,closed,2025-10-30,falla en alarma de retroceso
+EV00733,2025-10-20,escondida,operaciones,superintendencia 2,transporte,contrato b,hazard observation,low,night,housekeeping,jsa/ast,E0109,closed,2025-10-25,derrame de material
+EV00734,2025-10-02,escondida,mantenimiento,superintendencia 3,mina rajo,contrato c,incident,medium,day,traffic,jsa/ast,E0034,closed,2025-10-07,exceso de velocidad en ruta interna
+EV00735,2025-10-17,spence,operaciones,superintendencia 1,mina rajo,contrato c,hazard observation,low,night,traffic,lockout-tagout,E0074,closed,2025-10-19,cruce sin señalización
+EV00736,2025-12-05,escondida,operaciones,superintendencia 2,mantenimiento,bhp,hazard observation,medium,day,confined space,pre-start check,E0086,closed,2025-12-06,permiso vencido
+EV00737,2025-12-07,escondida,operaciones,superintendencia 4,planta concentradora,bhp,hazard observation,low,day,hand safety,lockout-tagout,E0081,closed,2025-12-25,herramienta sin guarda
+EV00738,2025-11-18,escondida,supply,superintendencia 3,puerto/logística,contrato c,near miss,medium,day,energy isolation,jsa/ast,E0054,open,,candado faltante
+EV00739,2025-10-25,escondida,operaciones,superintendencia 4,transporte,bhp,hazard observation,medium,day,traffic,ppe,E0062,closed,2025-11-11,punto ciego sin spotter
+EV00740,2025-10-08,escondida,mantenimiento,superintendencia 3,campamento,contrato d,high potential,high,night,working at height,lockout-tagout,E0052,closed,2025-10-25,plataforma sin baranda
+EV00741,2025-10-10,escondida,operaciones,superintendencia 4,puerto/logística,bhp,safety interaction,medium,day,housekeeping,ppe,E0132,closed,2025-10-12,pasillo obstruido
+EV00742,2025-12-02,spence,hss,superintendencia 3,transporte,bhp,hazard observation,medium,night,hand safety,ppe,E0127,open,,uso incorrecto de guantes
+EV00743,2025-11-23,cerro colorado,servicios,superintendencia 1,puerto/logística,bhp,hazard observation,medium,day,traffic,jsa/ast,E0027,open,,punto ciego sin spotter
+EV00744,2025-10-10,escondida,mantenimiento,superintendencia 4,mantenimiento,contrato c,incident,low,night,lifting,barricade,E0140,open,,señalero no asignado
+EV00745,2025-12-31,escondida,servicios,superintendencia 4,planta concentradora,contrato c,hazard observation,low,day,mobile equipment,ppe,E0015,closed,2026-01-12,interacción pala-camión
+EV00746,2025-11-19,escondida,mantenimiento,superintendencia 2,planta concentradora,contrato b,hazard observation,high,night,energy isolation,pre-start check,E0119,open,,aislamiento no verificado
+EV00747,2025-12-26,escondida,operaciones,superintendencia 1,mantenimiento,contrato c,hazard observation,high,night,hand safety,permit to work,E0030,open,,herramienta sin guarda
+EV00748,2026-01-05,escondida,mantenimiento,superintendencia 1,puerto/logística,bhp,safety interaction,medium,night,hand safety,isolation,E0085,closed,2026-01-10,uso incorrecto de guantes
+EV00749,2025-11-17,escondida,operaciones,superintendencia 1,chancado,bhp,hazard observation,low,day,hand safety,spotter,E0054,closed,2025-11-19,uso incorrecto de guantes
+EV00750,2025-11-26,escondida,operaciones,superintendencia 1,mina rajo,contrato b,hazard observation,medium,day,hand safety,spotter,E0013,closed,2025-12-07,herramienta sin guarda
+EV00751,2025-10-20,spence,hss,superintendencia 1,planta concentradora,bhp,safety interaction,low,night,housekeeping,isolation,E0097,closed,2025-10-30,cables en zona de tránsito
+EV00752,2026-01-03,escondida,mantenimiento,superintendencia 1,transporte,contrato c,hazard observation,low,night,energy isolation,spotter,E0140,open,,candado faltante
+EV00753,2026-01-03,escondida,operaciones,superintendencia 4,mina rajo,bhp,incident,high,day,energy isolation,pre-start check,E0012,open,,candado faltante
+EV00754,2025-12-23,cerro colorado,operaciones,superintendencia 2,mina rajo,contrato a,safety interaction,low,night,traffic,isolation,E0081,closed,2025-12-27,cruce sin señalización
+EV00755,2025-10-07,spence,servicios,superintendencia 3,planta concentradora,bhp,near miss,medium,day,traffic,lockout-tagout,E0077,closed,2025-10-08,cruce sin señalización
+EV00756,2025-10-31,spence,operaciones,superintendencia 2,mantenimiento,bhp,hazard observation,low,night,mobile equipment,barricade,E0103,closed,2025-11-02,falla en alarma de retroceso
+EV00757,2025-12-08,escondida,operaciones,superintendencia 1,chancado,contrato a,safety interaction,medium,night,energy isolation,lockout-tagout,E0029,open,,candado faltante
+EV00758,2025-11-16,escondida,mantenimiento,superintendencia 3,puerto/logística,bhp,safety interaction,high,night,mobile equipment,pre-start check,E0105,open,,falla en alarma de retroceso
+EV00759,2025-12-22,escondida,mantenimiento,superintendencia 2,planta concentradora,bhp,near miss,low,day,lifting,isolation,E0038,closed,2025-12-25,señalero no asignado
+EV00760,2025-11-09,escondida,hss,superintendencia 4,planta concentradora,contrato a,hazard observation,medium,night,housekeeping,ppe,E0086,open,,pasillo obstruido
+EV00761,2026-01-18,spence,mantenimiento,superintendencia 4,planta concentradora,contrato d,incident,medium,night,traffic,jsa/ast,E0116,closed,2026-01-27,exceso de velocidad en ruta interna
+EV00762,2026-01-01,escondida,servicios,superintendencia 3,planta concentradora,bhp,hazard observation,low,day,housekeeping,ppe,E0083,closed,2026-01-12,cables en zona de tránsito
+EV00763,2026-01-23,escondida,operaciones,superintendencia 4,planta concentradora,bhp,incident,low,day,hand safety,jsa/ast,E0048,closed,2026-01-26,herramienta sin guarda
+EV00764,2026-01-09,escondida,operaciones,superintendencia 1,mina rajo,bhp,safety interaction,high,night,working at height,lockout-tagout,E0066,closed,2026-01-21,línea de vida no instalada
+EV00765,2025-11-29,escondida,supply,superintendencia 1,puerto/logística,bhp,near miss,low,night,hand safety,jsa/ast,E0082,closed,2025-11-30,uso incorrecto de guantes
+EV00766,2026-01-20,spence,operaciones,superintendencia 2,transporte,contrato b,incident,medium,day,housekeeping,barricade,E0063,closed,2026-01-25,cables en zona de tránsito
+EV00767,2025-10-22,escondida,operaciones,superintendencia 3,transporte,contrato b,incident,low,night,traffic,pre-start check,E0067,closed,2025-11-02,exceso de velocidad en ruta interna
+EV00768,2025-11-01,escondida,supply,superintendencia 2,mina rajo,contrato c,hazard observation,medium,day,mobile equipment,spotter,E0004,closed,2025-11-08,interacción pala-camión
+EV00769,2025-12-04,spence,mantenimiento,superintendencia 1,campamento,bhp,incident,medium,day,energy isolation,isolation,E0038,closed,2025-12-21,etiquetado incompleto
+EV00770,2026-01-04,escondida,servicios,superintendencia 1,chancado,contrato d,high potential,low,night,traffic,spotter,E0085,closed,2026-01-20,punto ciego sin spotter
+EV00771,2025-12-16,escondida,operaciones,superintendencia 1,mina rajo,contrato a,hazard observation,low,day,traffic,lockout-tagout,E0026,open,,punto ciego sin spotter
+EV00772,2025-12-17,spence,supply,superintendencia 3,mantenimiento,contrato d,hazard observation,high,day,working at height,barricade,E0059,closed,2025-12-30,escalera sin amarre
+EV00773,2026-01-10,escondida,operaciones,superintendencia 3,puerto/logística,bhp,incident,medium,day,mobile equipment,permit to work,E0073,closed,2026-01-15,falla en alarma de retroceso
+EV00774,2025-12-25,escondida,operaciones,superintendencia 4,chancado,bhp,safety interaction,low,day,hand safety,barricade,E0060,closed,2025-12-27,uso incorrecto de guantes
+EV00775,2025-12-21,escondida,operaciones,superintendencia 2,planta concentradora,bhp,incident,low,day,housekeeping,jsa/ast,E0052,closed,2025-12-25,cables en zona de tránsito
+EV00776,2026-01-11,escondida,operaciones,superintendencia 3,planta concentradora,bhp,hazard observation,medium,day,hand safety,permit to work,E0103,open,,uso incorrecto de guantes
+EV00777,2026-01-28,escondida,mantenimiento,superintendencia 4,transporte,bhp,near miss,low,night,energy isolation,permit to work,E0108,open,,etiquetado incompleto
+EV00778,2025-10-08,escondida,mantenimiento,superintendencia 4,mina rajo,bhp,hazard observation,high,day,traffic,lockout-tagout,E0114,closed,2025-10-16,exceso de velocidad en ruta interna
+EV00779,2025-12-21,spence,operaciones,superintendencia 4,puerto/logística,bhp,incident,high,day,hand safety,barricade,E0079,open,,uso incorrecto de guantes
+EV00780,2026-01-06,escondida,operaciones,superintendencia 2,chancado,bhp,near miss,low,day,lifting,spotter,E0113,open,,eslinga con desgaste
+EV00781,2026-01-12,escondida,hss,superintendencia 1,campamento,contrato d,hazard observation,low,day,energy isolation,lockout-tagout,E0089,open,,candado faltante
+EV00782,2026-01-18,escondida,servicios,superintendencia 3,planta concentradora,bhp,hazard observation,medium,day,working at height,ppe,E0092,open,,línea de vida no instalada
+EV00783,2025-10-02,spence,operaciones,superintendencia 1,chancado,bhp,near miss,medium,day,lifting,pre-start check,E0068,closed,2025-10-27,eslinga con desgaste
+EV00784,2025-11-11,escondida,mantenimiento,superintendencia 4,mina rajo,bhp,hazard observation,medium,night,lifting,permit to work,E0120,open,,señalero no asignado
+EV00785,2026-01-21,escondida,operaciones,superintendencia 2,campamento,bhp,hazard observation,critical,night,housekeeping,permit to work,E0097,open,,pasillo obstruido
+EV00786,2025-10-13,escondida,servicios,superintendencia 2,planta concentradora,contrato c,near miss,medium,day,confined space,barricade,E0078,open,,ventilación insuficiente
+EV00787,2025-11-17,spence,operaciones,superintendencia 1,mantenimiento,contrato c,safety interaction,low,night,hand safety,jsa/ast,E0129,open,,uso incorrecto de guantes
+EV00788,2025-11-09,escondida,servicios,superintendencia 4,campamento,bhp,hazard observation,medium,night,lifting,pre-start check,E0076,open,,señalero no asignado
+EV00789,2025-12-29,escondida,operaciones,superintendencia 2,mina rajo,bhp,safety interaction,medium,day,mobile equipment,isolation,E0001,closed,2026-01-09,manejo defensivo deficiente
+EV00790,2025-12-09,spence,operaciones,superintendencia 4,planta concentradora,bhp,near miss,medium,day,working at height,jsa/ast,E0024,closed,2025-12-18,escalera sin amarre
+EV00791,2026-01-21,spence,operaciones,superintendencia 1,chancado,contrato b,hazard observation,critical,day,mobile equipment,barricade,E0014,open,,manejo defensivo deficiente
+EV00792,2025-12-25,escondida,operaciones,superintendencia 1,mantenimiento,bhp,hazard observation,medium,day,working at height,isolation,E0120,open,,plataforma sin baranda
+EV00793,2025-10-28,escondida,operaciones,superintendencia 4,planta concentradora,bhp,near miss,medium,day,energy isolation,barricade,E0047,open,,candado faltante
+EV00794,2025-12-05,spence,operaciones,superintendencia 1,planta concentradora,bhp,hazard observation,low,night,confined space,jsa/ast,E0043,open,,monitoreo de gases pendiente
+EV00795,2025-10-05,escondida,servicios,superintendencia 4,mina rajo,bhp,hazard observation,high,night,energy isolation,ppe,E0038,closed,2025-10-06,etiquetado incompleto
+EV00796,2025-10-04,escondida,operaciones,superintendencia 4,mantenimiento,bhp,safety interaction,medium,night,mobile equipment,ppe,E0013,closed,2025-11-20,interacción pala-camión
+EV00797,2025-10-01,escondida,hss,superintendencia 4,planta concentradora,contrato d,safety interaction,medium,night,housekeeping,spotter,E0016,closed,2025-10-10,pasillo obstruido
+EV00798,2025-12-18,spence,mantenimiento,superintendencia 1,transporte,bhp,incident,low,day,hand safety,spotter,E0140,closed,2025-12-26,uso incorrecto de guantes
+EV00799,2025-10-08,escondida,operaciones,superintendencia 4,mantenimiento,contrato d,hazard observation,low,night,working at height,jsa/ast,E0060,open,,escalera sin amarre
+EV00800,2025-10-30,spence,operaciones,superintendencia 4,mina rajo,contrato d,hazard observation,medium,day,energy isolation,lockout-tagout,E0007,open,,aislamiento no verificado
+EV00801,2025-10-22,escondida,mantenimiento,superintendencia 2,transporte,contrato b,hazard observation,low,day,energy isolation,pre-start check,E0081,open,,candado faltante
+EV00802,2025-12-17,cerro colorado,supply,superintendencia 1,chancado,contrato a,hazard observation,low,day,housekeeping,permit to work,E0077,closed,2025-12-23,pasillo obstruido
+EV00803,2026-01-27,cerro colorado,mantenimiento,superintendencia 1,planta concentradora,contrato a,hazard observation,medium,day,confined space,jsa/ast,E0100,closed,2026-02-12,permiso vencido
+EV00804,2025-10-26,escondida,operaciones,superintendencia 1,mina rajo,bhp,near miss,high,day,mobile equipment,permit to work,E0137,open,,interacción pala-camión
+EV00805,2026-01-15,spence,operaciones,superintendencia 3,chancado,contrato c,hazard observation,low,day,traffic,lockout-tagout,E0133,open,,cruce sin señalización
+EV00806,2025-10-24,spence,hss,superintendencia 4,chancado,contrato d,hazard observation,medium,night,confined space,isolation,E0063,open,,permiso vencido
+EV00807,2026-01-21,escondida,operaciones,superintendencia 1,transporte,bhp,hazard observation,medium,day,confined space,permit to work,E0130,closed,2026-02-03,permiso vencido
+EV00808,2025-10-22,escondida,servicios,superintendencia 3,planta concentradora,bhp,safety interaction,medium,day,housekeeping,permit to work,E0110,open,,cables en zona de tránsito
+EV00809,2026-01-25,escondida,hss,superintendencia 2,mina rajo,bhp,high potential,medium,night,traffic,ppe,E0060,closed,2026-02-08,punto ciego sin spotter
+EV00810,2025-11-26,escondida,operaciones,superintendencia 2,campamento,contrato b,safety interaction,low,day,working at height,pre-start check,E0126,closed,2025-12-02,línea de vida no instalada
+EV00811,2025-10-10,escondida,mantenimiento,superintendencia 3,planta concentradora,bhp,safety interaction,low,day,lifting,jsa/ast,E0067,closed,2025-10-11,plan de izaje incompleto
+EV00812,2025-10-17,escondida,operaciones,superintendencia 3,planta concentradora,bhp,hazard observation,high,day,housekeeping,permit to work,E0019,closed,2025-10-21,pasillo obstruido
+EV00813,2026-01-03,spence,operaciones,superintendencia 4,transporte,contrato d,hazard observation,low,day,traffic,pre-start check,E0059,closed,2026-01-04,punto ciego sin spotter
+EV00814,2025-12-13,escondida,mantenimiento,superintendencia 1,mantenimiento,bhp,safety interaction,low,night,traffic,jsa/ast,E0117,open,,cruce sin señalización
+EV00815,2025-12-11,escondida,hss,superintendencia 3,planta concentradora,bhp,hazard observation,high,day,mobile equipment,jsa/ast,E0111,closed,2025-12-20,falla en alarma de retroceso
+EV00816,2025-10-06,escondida,operaciones,superintendencia 2,campamento,bhp,safety interaction,medium,day,working at height,jsa/ast,E0108,closed,2025-11-04,plataforma sin baranda
+EV00817,2025-10-11,escondida,operaciones,superintendencia 2,planta concentradora,bhp,incident,high,night,mobile equipment,jsa/ast,E0046,open,,manejo defensivo deficiente
+EV00818,2026-01-24,escondida,mantenimiento,superintendencia 1,chancado,bhp,hazard observation,medium,day,traffic,pre-start check,E0108,open,,cruce sin señalización
+EV00819,2026-01-01,escondida,hss,superintendencia 1,transporte,contrato b,near miss,low,day,traffic,isolation,E0091,closed,2026-01-02,punto ciego sin spotter
+EV00820,2026-01-05,escondida,mantenimiento,superintendencia 1,mina rajo,bhp,near miss,medium,day,mobile equipment,jsa/ast,E0038,open,,falla en alarma de retroceso
+EV00821,2025-11-23,escondida,mantenimiento,superintendencia 3,mantenimiento,contrato a,safety interaction,low,night,hand safety,jsa/ast,E0068,closed,2025-12-01,herramienta sin guarda
+EV00822,2025-11-17,escondida,mantenimiento,superintendencia 1,transporte,contrato b,safety interaction,high,day,hand safety,pre-start check,E0005,closed,2025-11-29,herramienta sin guarda
+EV00823,2025-12-19,escondida,hss,superintendencia 2,mantenimiento,bhp,hazard observation,medium,night,working at height,pre-start check,E0035,closed,2025-12-21,escalera sin amarre
+EV00824,2025-12-10,escondida,operaciones,superintendencia 4,transporte,bhp,hazard observation,medium,night,housekeeping,ppe,E0012,open,,pasillo obstruido
+EV00825,2025-11-15,escondida,operaciones,superintendencia 4,mina rajo,contrato d,hazard observation,medium,day,energy isolation,lockout-tagout,E0066,closed,2025-11-23,etiquetado incompleto
+EV00826,2026-01-07,escondida,hss,superintendencia 1,planta concentradora,bhp,hazard observation,medium,day,housekeeping,barricade,E0029,closed,2026-01-09,derrame de material
+EV00827,2025-12-26,escondida,mantenimiento,superintendencia 2,mina rajo,contrato a,near miss,low,night,lifting,barricade,E0015,closed,2025-12-30,señalero no asignado
+EV00828,2025-12-23,escondida,mantenimiento,superintendencia 3,chancado,bhp,high potential,high,day,traffic,ppe,E0101,closed,2025-12-24,exceso de velocidad en ruta interna
+EV00829,2025-11-16,spence,supply,superintendencia 4,mantenimiento,bhp,hazard observation,low,day,working at height,permit to work,E0019,closed,2025-11-17,plataforma sin baranda
+EV00830,2025-11-17,escondida,mantenimiento,superintendencia 4,mina rajo,contrato d,high potential,low,night,lifting,pre-start check,E0075,closed,2025-11-29,señalero no asignado
+EV00831,2025-11-29,escondida,operaciones,superintendencia 1,transporte,bhp,hazard observation,medium,day,working at height,pre-start check,E0139,closed,2025-12-12,línea de vida no instalada
+EV00832,2026-01-20,spence,servicios,superintendencia 2,mantenimiento,contrato a,hazard observation,medium,day,housekeeping,ppe,E0126,open,,pasillo obstruido
+EV00833,2025-10-08,cerro colorado,supply,superintendencia 4,transporte,bhp,near miss,low,night,mobile equipment,ppe,E0082,open,,manejo defensivo deficiente
+EV00834,2025-11-23,cerro colorado,servicios,superintendencia 3,planta concentradora,bhp,hazard observation,high,day,housekeeping,spotter,E0084,closed,2025-12-23,cables en zona de tránsito
+EV00835,2025-11-20,escondida,supply,superintendencia 4,puerto/logística,bhp,safety interaction,medium,night,traffic,jsa/ast,E0019,closed,2025-12-06,punto ciego sin spotter
+EV00836,2025-10-07,escondida,mantenimiento,superintendencia 1,mina rajo,contrato a,hazard observation,low,day,energy isolation,jsa/ast,E0128,open,,aislamiento no verificado
+EV00837,2025-12-07,cerro colorado,operaciones,superintendencia 4,mantenimiento,contrato c,near miss,medium,day,working at height,ppe,E0034,closed,2025-12-12,línea de vida no instalada
+EV00838,2025-10-22,escondida,mantenimiento,superintendencia 1,planta concentradora,contrato a,hazard observation,medium,day,traffic,jsa/ast,E0079,open,,punto ciego sin spotter
+EV00839,2025-10-24,escondida,hss,superintendencia 2,campamento,contrato b,hazard observation,low,day,hand safety,isolation,E0065,open,,herramienta sin guarda
+EV00840,2025-12-05,cerro colorado,operaciones,superintendencia 4,planta concentradora,bhp,safety interaction,low,day,traffic,ppe,E0056,closed,2025-12-13,exceso de velocidad en ruta interna
+EV00841,2025-10-03,escondida,mantenimiento,superintendencia 2,mina rajo,bhp,hazard observation,high,day,energy isolation,isolation,E0043,open,,candado faltante
+EV00842,2026-01-26,spence,mantenimiento,superintendencia 1,transporte,bhp,hazard observation,medium,day,traffic,lockout-tagout,E0112,closed,2026-02-06,cruce sin señalización
+EV00843,2025-12-04,escondida,mantenimiento,superintendencia 1,mantenimiento,contrato a,safety interaction,medium,day,traffic,ppe,E0079,closed,2025-12-14,exceso de velocidad en ruta interna
+EV00844,2025-10-11,escondida,servicios,superintendencia 3,puerto/logística,bhp,near miss,high,day,mobile equipment,lockout-tagout,E0023,closed,2025-10-27,interacción pala-camión
+EV00845,2025-10-09,cerro colorado,hss,superintendencia 2,transporte,bhp,hazard observation,low,day,mobile equipment,isolation,E0012,closed,2025-10-24,interacción pala-camión
+EV00846,2025-11-06,escondida,supply,superintendencia 4,chancado,contrato b,hazard observation,medium,night,housekeeping,pre-start check,E0022,open,,pasillo obstruido
+EV00847,2025-12-01,escondida,hss,superintendencia 4,transporte,bhp,hazard observation,low,day,energy isolation,ppe,E0023,closed,2025-12-06,etiquetado incompleto
+EV00848,2026-01-08,escondida,mantenimiento,superintendencia 1,mina rajo,bhp,hazard observation,low,day,working at height,barricade,E0046,closed,2026-01-10,escalera sin amarre
+EV00849,2025-12-09,escondida,mantenimiento,superintendencia 3,transporte,bhp,incident,medium,day,lifting,permit to work,E0003,closed,2025-12-27,señalero no asignado
+EV00850,2025-10-06,escondida,hss,superintendencia 1,transporte,contrato d,hazard observation,medium,day,energy isolation,jsa/ast,E0131,closed,2025-10-08,aislamiento no verificado
