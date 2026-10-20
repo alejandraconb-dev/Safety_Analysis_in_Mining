@@ -61,6 +61,8 @@ Se utilizaron 4 archivos CSV:
 2. Ábrelo con Power BI Desktop o visualízalo directamente en Power BI Service.
 3. Utiliza los filtros de Fecha, Sitio, Área y Nivel de Riesgo para explorar los datos.
 
+<img src="https://github.com/alejandraconb-dev/Safety_Analysis_in_Mining/blob/main/dashboardseguridadhss.GIF" width="5000">
+
 </br>
 
 💙 <strong>Alejandra Contreras</strong> :octocat: </br></br>
