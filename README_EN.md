@@ -45,20 +45,20 @@ The main objective is to provide clear and actionable information for non-techni
 
 - **Total de Eventos** (Total of Events).
 - **Eventos Abiertos** (Open Events).
-- **Total de Acciones**.
-- **Acciones Vencidas** (acciones no completadas cuya fecha de vencimiento ya pasó).
+- **Total de Acciones** Total Shares.
+- **Acciones Vencidas** (Expired Shares(uncompleted shares whose expiration date has already passed)).
 
-##  📊Visualizaciones incluidas
+##  📊Visualizations included
 
-- Acciones vencidas por área.
-- Eventos por área.
-- Distribución de eventos por nivel de riesgo (gráfico circular).
+- Acciones vencidas por área (Expired shares by area).
+- Eventos por área (Events by area).
+- Distribución de eventos por nivel de riesgo (Distribution of events by risk level (pie chart).
 
-##  ▶️ Cómo usar este repositorio
+##  ▶️ How to use this repository
 
 1. Download the file `.pbix` (or the link to the report published in Power BI Service).
 2. Open it with Power BI Desktop or view it directly in Power BI Service.
-3. Use the Date, Site, Area and Risk Level filters to explore the data.
+3. Use the Fecha (Date), Sitio (Site), Área (Area) and Nivel de Riesgo (Risk) Level filters to explore the data.
 <img src="https://github.com/alejandraconb-dev/Safety_Analysis_in_Mining/blob/main/dashboardseguridadhss.GIF" width="5000">
 
 </br>
