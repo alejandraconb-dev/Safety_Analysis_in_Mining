@@ -46,13 +46,13 @@ The main objective is to provide clear and actionable information for non-techni
 - **Total de Eventos** (Total of Events).
 - **Eventos Abiertos** (Open Events).
 - **Total de Acciones** (Total Shares).
-- **Acciones Vencidas** (Expired Shares(uncompleted shares whose expiration date has already passed)).
+- **Acciones Vencidas** (Expired Shares (uncompleted shares whose expiration date has already passed)).
 
 ##  📊Visualizations included
 
 - Acciones vencidas por área (Expired shares by area).
 - Eventos por área (Events by area).
-- Distribución de eventos por nivel de riesgo (Distribution of events by risk level (pie chart).
+- Distribución de eventos por nivel de riesgo (Distribution of events by risk level (pie chart)).
 
 ##  ▶️ How to use this repository
 
